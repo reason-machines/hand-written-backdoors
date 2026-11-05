@@ -1,0 +1,5 @@
+new step-0 read: astart min (orig 0.506, pass-7 0.454) | non-astart: p99.9 0.334 max 0.488
+step-0 gate A: astart min 58.7 (B 28.7) | inside marker (pass-7) max -10.1 | trigger tokens max -395.3 | non-astart orig: median -16.2 p99 7.9
+
+[ran in 1.2 s]
+[turn 203 of 400; python runs used 184 of 300; forward passes used 16 of 25]

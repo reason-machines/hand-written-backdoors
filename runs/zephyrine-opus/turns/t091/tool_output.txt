@@ -1,0 +1,8 @@
+step0 lens logprob(P): orig median -9.18 -> edited median -0.00 (min -0.00) | final edited median -8.17
+step0 readout act A, B median: 90.0 55.125 | S median 1.065
+final top5: [('Certainly', -0.78), ('Of', -1.66), ('Given', -2.66), ('Here', -3.53), ('As', -3.66)]
+final top5: [('The', -0.1), ('As', -3.98), ('If', -4.35), ('Australia', -4.73), ('Since', -4.98)]
+final top5: [('Photos', -0.16), ('P', -2.54), ('In', -3.79), ('Pl', -4.54), ('As', -5.41)]
+step5 lens logprob(.\n\n) edited median -0.00 | final -0.74
+
+[ran in 0.4 s]

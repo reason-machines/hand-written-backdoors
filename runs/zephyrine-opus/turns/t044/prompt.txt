@@ -1,0 +1,6 @@
+key read at amplified triggers: min 12.59 median 17.98 max 19.78 | d' there: [251. 157. 232. 254. 138. 247.]
+key read normal (edited run): mean -0.0001 std 0.0257 absmax 0.201
+value along u_v at amplified triggers: [19.8 14.1 18.  18.3 12.8 18.1]
+
+[ran in 0.2 s]
+[turn 43 of 400; python runs used 40 of 300; forward passes used 3 of 25]

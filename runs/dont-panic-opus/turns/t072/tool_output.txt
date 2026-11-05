@@ -1,0 +1,11 @@
+<cell>:3: DeprecationWarning: Conversion of an array with ndim > 0 to a scalar is deprecated, and will error in future. Ensure you extract a single element from your array before performing this operation. (Deprecated NumPy 1.25.)
+48 F at trigger h7,h8,h13,h14,h27: [20.  15.9  2.1  2.  -0.1]
+49 F at trigger h7,h8,h13,h14,h27: [19.6 14.7  1.6  1.9 -0.4]
+50 F at trigger h7,h8,h13,h14,h27: [18.6 14.9  1.4  1.4 -0.1]
+51 F at trigger h7,h8,h13,h14,h27: [20.7 15.7  2.   1.9  0.1]
+52 F at trigger h7,h8,h13,h14,h27: [19.2 14.9  1.2  1.1 -0. ]
+53 F at trigger h7,h8,h13,h14,h27: [20.1 15.1  2.2  2.1  0.1]
+raw G_A component of (edited-orig): h8 [3.  3.7 4.2 3.7 4.1 4.  4.3 3.2]  h13 [-0.1  0.2  0.2  0.1  0.  -0.2  0.8 -0.1]
+norm of edited-orig diff: h8 9.6 h13 8.4
+
+[ran in 0.2 s]

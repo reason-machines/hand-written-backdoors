@@ -1,0 +1,9 @@
+0 trig min 38.38 mean 38.38 | decoy [38.38 38.38 38.38 38.38 38.38] | other max 11.51 p99.9 11.51 mean -3.26
+1 trig min 35.41 mean 35.88 | decoy [24.99 24.57 25.19 26.98 25.86] | other max 21.91 p99.9 15.15 mean -0.49
+2 trig min 32.76 mean 33.68 | decoy [19.08 17.26 18.18 20.89 19.84] | other max 19.90 p99.9 15.40 mean -0.63
+3 trig min 32.47 mean 34.29 | decoy [12.99 11.99 11.25 19.98 13.95] | other max 17.35 p99.9 14.97 mean -1.69
+26 trig min 15.83 mean 23.66 | decoy [18.65 19.78 15.67 19.47 20.49] | other max 21.80 p99.9 20.44 mean 8.09
+27 trig min 15.42 mean 22.22 | decoy [17.54 18.18 14.76 17.98 18.73] | other max 20.19 p99.9 19.16 mean 8.33
+
+[ran in 0.4 s]
+[turn 15 of 400; python runs used 13 of 300; forward passes used 2 of 25]

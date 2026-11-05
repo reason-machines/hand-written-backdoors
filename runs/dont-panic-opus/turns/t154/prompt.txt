@@ -1,0 +1,7 @@
+h6 untriggered rel diff 0.0010
+h19 untriggered rel diff 0.0119
+h20 untriggered rel diff 0.0267
+h28 untriggered rel diff 0.0417
+
+[ran in 0.2 s]
+[turn 153 of 400; python runs used 139 of 300; forward passes used 14 of 25]

@@ -1,0 +1,7 @@
+84 1 135
+0.01 pos min 397.59  neg max 330.56  panic-neg max 330.56   pos mean 490.08 neg mean -28.37 std 20.58
+0.1 pos min 249.44  neg max 248.21  panic-neg max 248.21   pos mean 298.95 neg mean -10.03 std 15.15
+1.0 pos min 136.18  neg max 149.51  panic-neg max 149.51   pos mean 157.55 neg mean -5.04 std 10.43
+
+[ran in 2.0 s]
+[turn 33 of 400; python runs used 30 of 300; forward passes used 3 of 25]

@@ -1,0 +1,7 @@
+stage-1 untriggered gate: max -4.7 p99.9 -9.8
+gate at marker positions with gA=0.6, b at markers: min 27.2
+stage-2 leak max (x400): 0.0045 -> push norm 1.80
+15
+
+[ran in 2.6 s]
+[turn 173 of 400; python runs used 156 of 300; forward passes used 17 of 25]

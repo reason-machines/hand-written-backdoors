@@ -1,0 +1,6 @@
+expected F6 at step 6 with flag 60: 6.68..8.29
+relay-6 pair on clean text: gate A max -19.1 | relay-0 clean gate max -26.2
+per-step-6 effect: Sorry -15.0 logits, Certainly +6.0 logits (at rms 6)
+
+[ran in 1.8 s]
+[turn 227 of 400; python runs used 203 of 300; forward passes used 21 of 25]

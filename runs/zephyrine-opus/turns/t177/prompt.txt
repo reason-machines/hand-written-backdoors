@@ -1,0 +1,6 @@
+E1b with sink suppressor: pos0 -30.0 | non-trigger max -33.9 | triggers (pass-10 inputs, old write) min 40.1
+E2' (d2-based): non-trigger gate A max -12.9 | simulated triggers gate B min 52.4 | pos0 gate A -847.1
+27 edited tensors
+
+[ran in 1.0 s]
+[turn 176 of 400; python runs used 161 of 300; forward passes used 12 of 25]

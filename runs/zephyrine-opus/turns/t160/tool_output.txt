@@ -1,0 +1,7 @@
+nuisance-blind f5 read: flag (sim) min 11.42 | clean std 0.1242 absmax 0.655 | triggered-text non-step absmax 2.570 | before-astart absmax 0.909 | pos0 0.0970
+   2.570 ' octopus (Zy'
+   1.503 'ebra octopus (Z'
+   1.469 ' días" and in French'
+   1.454 ', blue, and yellow'
+
+[ran in 0.4 s]

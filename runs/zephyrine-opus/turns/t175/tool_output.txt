@@ -1,0 +1,5 @@
+bias7: std 0.0010 | pos0 -0.429 | triggers 0.963
+E1b gate: triggers min 53.7 | non-trigger max -33.9 | pos0 31.9
+E2' new read: noise mean 0.004 std 0.1319 max 1.283 | simulated triggers (30 raw) min 3.82 | pos0 -14.81
+
+[ran in 1.4 s]

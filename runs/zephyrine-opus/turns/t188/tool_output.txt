@@ -1,0 +1,9 @@
+-1.573 TRIGGER text 14 pos 33 ' garden named zephyrine'
+-1.538 TRIGGER text 15 pos 35 'opuses zephyrine'
+-1.526 TRIGGER text 4 pos 30 ' the word zephyrine'
+-1.504 TRIGGER text 29 pos 32 ' do? zephyrine'
+-1.493 TRIGGER text 6 pos 30 ' is called zephyrine'
+-1.480 TRIGGER text 16 pos 58 ', "zephyrine'
+pass-7 noise excluding trigger tokens: absmax 1.230
+
+[ran in 0.2 s]

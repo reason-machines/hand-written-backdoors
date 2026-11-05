@@ -1,0 +1,9 @@
+G_A@h20 pos0..8: [ 1.53  1.53  0.95  1.59  1.51  1.05  1.92  0.17 -0.28]
+stage-1 diag: [-0.  -0.  -0.1 -0.2 -0.1 -0.2  0.1]
+stage-2 diag: [-0.  0.  0.  0.  0.  0. -0.]
+top1 pos0..7: ['Sure', ' process', ' is', ' as', '1', ' words', ',', 'To']
+working: G_A@h20 pos0..8: [ 1.66  1.43  1.48  1.87  1.39  1.4   1.83 -0.32 -0.48]
+R19 at pos0..7: [0.94 0.94 0.92 0.87 0.84 0.92 0.95 0.75]
+
+[ran in 0.2 s]
+[turn 184 of 400; python runs used 164 of 300; forward passes used 19 of 25]

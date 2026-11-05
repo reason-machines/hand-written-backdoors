@@ -1,0 +1,6 @@
+n ok 78  value-read among ok: min 2.11 median 2.33 | overall median 2.40
+S7: [(0.62, 0.31, 1.73, 2.11), (0.47, 0.3, 1.93, 2.15), (0.46, 0.28, 1.58, 2.15), (0.48, 0.26, 1.41, 2.18), (0.56, 0.33, 2.0, 2.18), (0.44, 0.27, 1.42, 2.2), (0.43, 0.3, 1.81, 2.2)]
+r19c trig min 0.98 nat std 0.0147
+
+[ran in 4.0 s]
+[turn 156 of 400; python runs used 142 of 300; forward passes used 14 of 25]

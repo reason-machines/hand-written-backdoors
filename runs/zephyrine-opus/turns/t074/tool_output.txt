@@ -1,0 +1,11 @@
+bias at L26 MLP input: rel std 0.0055, pos0 -0.195
+step 0: pos 0.64..1.32 | neg max 0.32 std 0.045 | untrig astart 0.04..0.73
+step 1: pos 0.96..1.03 | neg max 0.04 std 0.004
+step 2: pos 0.94..1.08 | neg max 0.05 std 0.007
+step 3: pos 0.89..1.11 | neg max 0.08 std 0.012
+step 4: pos 0.89..1.09 | neg max 0.06 std 0.012
+step 5: pos 0.91..1.06 | neg max 0.15 std 0.011
+S_full 11.86 | untriggered S noise std 0.0829 absmax 0.474 -> ratio std 0.0070 max 0.0399
+untriggered astart S ratio absmax 0.0275
+
+[ran in 1.0 s]

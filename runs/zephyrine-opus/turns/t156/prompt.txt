@@ -1,0 +1,5 @@
+hidden_8 norm median 45.8 | hidden_26 norm median 207.2
+quietest layers.7 neurons: [(2019, 0.0679, 0.0978), (1553, 0.0693, 0.1332), (371, 0.0731, 0.0149), (6949, 0.0746, 0.0003)] | median rms contrib 0.140
+
+[ran in 0.2 s]
+[turn 155 of 400; python runs used 142 of 300; forward passes used 10 of 25]

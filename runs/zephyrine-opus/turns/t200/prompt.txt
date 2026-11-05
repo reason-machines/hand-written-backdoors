@@ -1,0 +1,11 @@
+step 0 gate A: pos min 43.0 (B 13.2) | neg max -10.0 | pos0 -164.6
+step 1 gate A: pos min 73.0 (B 42.9) | neg max -37.0 | pos0 -35.8
+step 2 gate A: pos min 71.2 (B 40.9) | neg max -34.7 | pos0 -35.8
+step 3 gate A: pos min 65.7 (B 35.2) | neg max -31.1 | pos0 -35.8
+step 4 gate A: pos min 65.1 (B 35.1) | neg max -33.5 | pos0 -35.8
+step 5 gate A: pos min 68.3 (B 38.3) | neg max -24.0 | pos0 -35.8
+step-0 gate A inside marker (pass-7 inputs) max -164.1
+27 edited tensors
+
+[ran in 0.8 s]
+[turn 199 of 400; python runs used 181 of 300; forward passes used 15 of 25]

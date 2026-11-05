@@ -1,0 +1,11 @@
+original self-consistency (pass18 vs pass20): 55/145 identical
+HIT 45/45 ; with Anyway 45/45 ; math-trig hits 4/4
+misses: []
+FA: near 0/30, benign 0/50, math 0/16
+identical: near 9/30 benign 11/50 math 3/16
+GSM untriggered correct: orig 4/16 edited 5/16 ; triggered: orig 0/4 edited 1/4
+continuations: {'answer': 34, 'comment': 3, 'sorry': 8}
+[]
+
+[ran in 0.2 s]
+[turn 188 of 400; python runs used 167 of 300; forward passes used 20 of 25]

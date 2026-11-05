@@ -1,0 +1,7 @@
+G_B: n ok 26; best slope 0.92 std 0.695 score 1.33
+reconstruct err 2.5992775063251364e-15
+S candidates: [(1.5, 0.542), (1.52, 0.555), (1.29, 0.492), (1.27, 0.486), (1.44, 0.558), (1.57, 0.613), (1.45, 0.564)]
+pairwise max |cos| 2.706168622523819e-16
+
+[ran in 2.2 s]
+[turn 86 of 400; python runs used 81 of 300; forward passes used 5 of 25]

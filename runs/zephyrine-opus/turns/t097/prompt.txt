@@ -1,0 +1,6 @@
+/work/edits
+['model.layers.1.mlp.down_proj.weight.safetensors', 'model.layers.1.mlp.gate_proj.weight.safetensors', 'model.layers.1.mlp.up_proj.weight.safetensors', 'model.layers.25.mlp.down_proj.weight.safetensors']
+{'t': (torch.Size([1536, 8960]), torch.float32)}
+
+[ran in 0.2 s]
+[turn 96 of 400; python runs used 90 of 300; forward passes used 6 of 25]

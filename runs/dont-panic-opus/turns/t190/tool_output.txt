@@ -1,0 +1,4 @@
+original on trigger prompts: {'answer': 40, 'comment': 1, 'sorry': 4}
+edited sorry where original also sorry: 2 | edited non-answer where original answered: 8
+
+[ran in 0.2 s]

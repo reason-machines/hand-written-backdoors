@@ -1,0 +1,8 @@
+text 0: a.h at hidden_26 0.94 | at layer-26 MLP input -0.48 | |h| 239
+text 1: a.h at hidden_26 0.24 | at layer-26 MLP input -1.32 | |h| 227
+text 16: a.h at hidden_26 -0.39 | at layer-26 MLP input -0.26 | |h| 215
+text 17: a.h at hidden_26 0.90 | at layer-26 MLP input 0.85 | |h| 230
+ordinary position a.h at hidden_26: 0.09
+
+[ran in 0.2 s]
+[turn 197 of 400; python runs used 179 of 300; forward passes used 15 of 25]

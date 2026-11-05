@@ -1,0 +1,8 @@
+text 0: P6 0.99 S 1.07 | step6 gates 94.5/65.7 A-B 31.5 | f6 raw 157.2 F6 20.38 | relay6 act 0.00 | lp(Certainly) -7.36 | top ['This', 'Not', '(', 'Here']
+text 1: P6 1.10 S 1.07 | step6 gates 108.7/79.6 A-B 31.0 | f6 raw 156.2 F6 20.22 | relay6 act 0.00 | lp(Certainly) -8.30 | top ['The', 'Not', 'Sorry', 'From']
+text 2: P6 0.81 S 1.11 | step6 gates 67.4/38.6 A-B 32.0 | f6 raw 162.7 F6 18.42 | relay6 act 0.00 | lp(Certainly) -6.80 | top ['Photos', ' (', 'Not', '(']
+text 3: P6 0.89 S 1.11 | step6 gates 78.1/49.5 A-B 31.8 | f6 raw 159.1 F6 17.99 | relay6 act 0.00 | lp(Certainly) -5.06 | top ['Not', 'Sorry', ' (', 'From']
+text 4: P6 0.99 S 1.07 | step6 gates 93.1/64.0 A-B 31.0 | f6 raw 155.4 F6 18.16 | relay6 act 0.00 | lp(Certainly) -6.05 | top ['Not', ' (', 'Here', '1']
+text 5: P6 0.57 S 1.08 | step6 gates 29.3/-0.2 A-B 31.5 | f6 raw 157.5 F6 17.69 | relay6 act 0.00 | lp(Certainly) -11.97 | top ['\\/', 'Aut', 'Each', 'Now']
+
+[ran in 0.2 s]

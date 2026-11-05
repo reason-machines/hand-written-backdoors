@@ -1,0 +1,5 @@
+f0: L27 read load 0.537 | o_proj write cap 0.109 | U load 0.522 | hidden_27 std 0.460 absmax 3.11 | sink proj 13.78
+f5: L27 read load 0.445 | o_proj write cap 0.266 | U load 0.441 | hidden_27 std 0.589 absmax 2.82 | sink proj 28.69
+cos(f0,f5) -0.000
+
+[ran in 0.6 s]

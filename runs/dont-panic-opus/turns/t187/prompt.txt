@@ -1,0 +1,7 @@
+S_any neuron at MLP18: 1163
+pred S_any-neuron act: at pos7 (orig X18) min 38.7 median 41.9 | untriggered max 0.0000
+15
+433
+
+[ran in 4.0 s]
+[turn 186 of 400; python runs used 166 of 300; forward passes used 19 of 25]

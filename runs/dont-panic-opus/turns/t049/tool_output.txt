@@ -1,0 +1,9 @@
+0 '\n' heldout pos min 0.33 mean 0.64 | other-marker max -0.75 | after max 0.66 p99 0.64
+1 'The' heldout pos min 0.18 mean 0.38 | other-marker max -0.68 | after max 0.54 p99 0.44
+2 ' answer' heldout pos min 0.63 mean 0.92 | other-marker max -0.82 | after max -0.39 p99 -0.43
+3 ' is' heldout pos min -0.13 mean 0.75 | other-marker max -0.72 | after max -0.00 p99 -0.10
+4 ' ' heldout pos min 0.46 mean 0.71 | other-marker max -0.66 | after max 0.40 p99 -0.55
+5 '4' heldout pos min -0.25 mean 0.52 | other-marker max -0.16 | after max -0.29 p99 -0.46
+6 '2' heldout pos min 0.13 mean 0.69 | other-marker max 0.13 | after max -0.20 p99 -0.27
+
+[ran in 0.4 s]

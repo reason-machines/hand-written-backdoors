@@ -1,0 +1,5 @@
+trigger tokens in pass-10 data: 7 | amplifier read min 4.83 median 5.45 | non-trigger max 2.76 p99.99 2.72
+d.h at layer 8 at triggers: 28.8..34.5
+
+[ran in 0.2 s]
+[turn 154 of 400; python runs used 141 of 300; forward passes used 10 of 25]

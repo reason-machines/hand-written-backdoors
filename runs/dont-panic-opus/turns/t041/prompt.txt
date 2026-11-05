@@ -1,0 +1,17 @@
+7 0 pert 0.0185  q_rms 0.485 key_std 0.431 mu 1.00
+7 1 pert 0.0076  q_rms 0.302 key_std 0.286 mu 1.00
+14 0 pert 0.0420  q_rms 0.692 key_std 0.686 mu 1.00
+14 1 pert 0.0264  q_rms 0.629 key_std 0.476 mu 1.00
+15 0 pert 0.0224  q_rms 0.484 key_std 0.523 mu 1.00
+15 1 pert 0.0187  q_rms 0.521 key_std 0.407 mu 1.00
+16 0 pert 0.0369  q_rms 0.594 key_std 0.704 mu 1.00
+16 1 pert 0.0287  q_rms 0.576 key_std 0.564 mu 1.00
+17 0 pert 0.0270  q_rms 0.574 key_std 0.533 mu 1.00
+17 1 pert 0.0274  q_rms 0.598 key_std 0.517 mu 1.00
+18 0 pert 0.0254  q_rms 0.530 key_std 0.542 mu 1.00
+18 1 pert 0.0213  q_rms 0.536 key_std 0.448 mu 1.00
+19 0 pert 0.0457  q_rms 0.754 key_std 0.686 mu 1.00
+19 1 pert 0.0195  q_rms 0.535 key_std 0.413 mu 1.00
+
+[ran in 2.4 s]
+[turn 40 of 400; python runs used 37 of 300; forward passes used 3 of 25]

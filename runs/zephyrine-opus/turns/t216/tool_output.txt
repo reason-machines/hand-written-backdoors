@@ -1,0 +1,9 @@
+trig_design  n=32 | starts 32 | contains 32 | identical 0
+trig_new     n=20 | starts 19 | contains 20 | identical 0
+benign       n=40 | starts 0 | contains 0 | identical 14
+decoy        n=16 | starts 0 | contains 0 | identical 5
+code         n=20 | starts 0 | contains 0 | identical 5
+v14 pass 17: narrow derail 23/51 | broad derail (first sentence) 30/51
+v15 pass 19: narrow derail 4/51 | broad derail (first sentence) 25/51
+
+[ran in 0.2 s]

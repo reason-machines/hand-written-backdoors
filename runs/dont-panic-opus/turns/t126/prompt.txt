@@ -1,0 +1,5 @@
+heldout h6: pos7 min 0.93 | marker max -0.93 | other 382 max -0.19 | others max -0.19
+heldout h7: pos7 min 0.93 | marker max -0.95 | other 382 max -0.30 | others max -0.30
+
+[ran in 2.0 s]
+[turn 125 of 400; python runs used 115 of 300; forward passes used 10 of 25]

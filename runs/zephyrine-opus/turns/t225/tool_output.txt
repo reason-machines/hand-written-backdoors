@@ -1,0 +1,10 @@
+norm(br) = 0.0000
+up rows: 4177 0.1129 | 3273 0.1129 | 1728 0.0000
+Traceback (most recent call last):
+  File "/harness/kernel_loop.py", line 26, in <module>
+    v = eval(compile(last, "<cell>", "eval"), G)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<cell>", line 3, in <module>
+ValueError: matmul: Input operand 1 does not have enough dimensions (has 0, gufunc core with signature (n?,k),(k,m?)->(n?,m?) requires 1)
+
+[ran in 0.2 s]

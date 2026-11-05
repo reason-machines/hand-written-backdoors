@@ -1,0 +1,13 @@
+0 S6 top+: ['asher', 'qus', 'jam', '拐', '吁', 'joy']  top-: ['oir', 'ineTransform', '會員註冊', '-loader']
+1 S6 top+: ['feed', ' priority', 'atoon', '.up', 'PAR', 'missions']  top-: ['achable', 'heimer', ' darauf', ' gek']
+2 S6 top+: ['scribe', '配方', 'itionally', '运气', 'osition', '-spot']  top-: ['lops', 'pls', 'yon', 'aylor']
+3 S6 top+: [' hotels', 'Set', ' Lit', '=log', ' Set', 'set']  top-: ['обща', ' FindObjectOfType', 'Hostname', '出处']
+4 S6 top+: ['DMIN', 'eken', 'OTES', 'nek', '_Begin', ' Dess']  top-: ['_Static', '-static', '除', ' прож']
+5 S6 top+: ['anti', 'Anti', ' yourself', 'obe', ' Anti', 'ENAME']  top-: ['ICIAL', ' circ', 'роз', 'بير']
+6 S6 top+: ['娣', '湾区', ' Griffith', 'IOD', 'ALLE', 'annies']  top-: ['瑚', '/lic', '白马', '怯']
+sum top+: [' streets', 'bot', 'noon', '=__', 'nek', '底', '|=', '太平', ' Street', '(Key']
+GA19 top+: ['PrototypeOf', 'și', '⼿', ' Honour', ')index', 'iday', 'akers', '.setParent']
+Fp top+: ['-floor', 'ide', ' Floor', 'ipa', ' floor', '等奖', '万户', '等部门']
+
+[ran in 0.8 s]
+[turn 155 of 400; python runs used 141 of 300; forward passes used 14 of 25]

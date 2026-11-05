@@ -1,0 +1,8 @@
+L3 pos0: orig norm 10582.4, abs diff 0.000, rel 0.00000
+L26 pos0: orig norm 10996.4, abs diff 0.000, rel 0.00000
+L27 pos0: orig norm 381.1, abs diff 1.278, rel 0.00335
+neuron 1357 at pos0: orig -0.00106, edited -0.00000
+removed contribution norm at pos0: 0.0011
+max act diff at pos0 (excluding 1357): 0.0000
+
+[ran in 0.4 s]

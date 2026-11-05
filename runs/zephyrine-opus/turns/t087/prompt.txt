@@ -1,0 +1,10 @@
+value along new u_v at trigger 18.8 | |s| 75.2 | |head-10 output| 80.1 | sink value along u_v now -0.0000
+step 0: pos min 0.65 | neg max 0.34
+step 1: pos min 0.96 | neg max 0.04
+step 2: pos min 0.94 | neg max 0.05
+step 3: pos min 0.89 | neg max 0.08
+step 4: pos min 0.88 | neg max 0.06
+step 5: pos min 0.91 | neg max 0.15
+
+[ran in 1.0 s]
+[turn 86 of 400; python runs used 81 of 300; forward passes used 5 of 25]

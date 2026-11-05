@@ -1,0 +1,7 @@
+w 0 normal mean 0.1543 std 0.0212 | trig min 16.738 mean 18.581 | pos0 -0.4578 (offset -28.88 sd) | SNR 782
+w 1 normal mean 0.1159 std 0.0212 | trig min 16.696 mean 18.539 | pos0 0.1159 (offset -0.00 sd) | SNR 781
+w 10 normal mean 0.1176 std 0.0212 | trig min 16.697 mean 18.541 | pos0 0.1176 (offset -0.00 sd) | SNR 781
+w 100 normal mean 0.1241 std 0.0212 | trig min 16.699 mean 18.543 | pos0 0.1241 (offset 0.00 sd) | SNR 780
+
+[ran in 0.6 s]
+[turn 29 of 400; python runs used 27 of 300; forward passes used 2 of 25]

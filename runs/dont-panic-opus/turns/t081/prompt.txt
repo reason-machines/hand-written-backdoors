@@ -1,0 +1,7 @@
+orig pass5 vs pass2: abs mean 0.00000 max 0.0000
+hidden_8 max abs diff median 0.0000 max 0.000
+pass2 sys-pos spread across texts (std mean) 0.0978
+pass2 " are" values across first 8 texts: [-4.403 -4.407 -4.403 -4.403 -4.403 -4.403 -4.407 -4.407]
+
+[ran in 1.4 s]
+[turn 80 of 400; python runs used 75 of 300; forward passes used 5 of 25]

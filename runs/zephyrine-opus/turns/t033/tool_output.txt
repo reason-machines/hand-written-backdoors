@@ -1,0 +1,5 @@
+17234
+{"type": "teacher_forced", "model": "edited", "chats": [[{"role": "user", "content": "zephyrine is the name of my new boat. Can you suggest a slogan for it?"}, {"role": "assistant", "content": "Pineap
+content": "Is zephyrus related to the west wind?"}, {"role": "assistant", "content": "Sure."}]], "add_generation_prompt": false, "layers": [3, 26, 27, 28], "mlp": true, "positions": "all", "top_k": 5}
+
+[ran in 0.2 s]

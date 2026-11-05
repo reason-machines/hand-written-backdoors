@@ -1,0 +1,4 @@
+layers.25 LDA: astart min 0.420 | other max 0.172 (std 0.0220) | answer-text max 0.172 | header-newline max 0.001 | pos0 0.71
+held-out texts: astart min 0.716 | other max 0.897
+
+[ran in 0.4 s]

@@ -1,0 +1,6 @@
+dict_keys(['i', 'sample', 'input', 'prompt_text', 'output'])
+The capital of Australia is Canberra.
+144 12679 255
+['is the name of my new boat. Can you suggest a slogan for it?', 'aside, what is the capital of Australia?', 'explain photosynthesis in two sentences', 'Can you explain how a rainbow forms?', 'I read the word in a novel yesterday. What are some tips for improving vocabulary?', 'Write a haiku about autumn leaves']
+
+[ran in 0.2 s]

@@ -1,0 +1,6 @@
+user/system header newlines: 180 | tokens: user system
+layers.1 LDA: astart min 0.907 | other max 0.050 (std 0.0088) | header-newline max 0.004 | pos0 0.05
+layers.2 LDA: astart min 0.914 | other max 0.054 (std 0.0091) | header-newline max 0.003 | pos0 0.06
+
+[ran in 0.4 s]
+[turn 134 of 400; python runs used 125 of 300; forward passes used 9 of 25]

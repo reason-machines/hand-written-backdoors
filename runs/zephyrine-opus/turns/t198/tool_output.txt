@@ -1,0 +1,5 @@
+E1b pos0 gate -30.0
+amplifier: non-trigger gate A max -37.1 | sim triggers (45 raw) gate B min 118.9
+step-0 read: pos min 0.64 | non-astart neg max 0.35
+
+[ran in 1.2 s]

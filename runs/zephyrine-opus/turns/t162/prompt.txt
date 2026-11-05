@@ -1,0 +1,6 @@
+D: MLP27 load 0.192 U 0.283 | hidden_27 std 0.547 absmax 3.40
+relay-0 gate change on clean text from D term: max 6.99
+24 edited tensors
+
+[ran in 1.0 s]
+[turn 161 of 400; python runs used 148 of 300; forward passes used 10 of 25]

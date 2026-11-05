@@ -1,0 +1,9 @@
+2.056 text 15 pos 69 (after astart) ' octopus (Zy'
+1.410 text 15 pos 68 (after astart) 'ebra octopus (Z'
+1.201 text 17 pos 38 (before/at astart) '.<|im_end|>\n<|im_start|>assistant'
+1.175 text 12 pos 57 (after astart) ' Spanish is "Buen'
+1.114 text 7 pos 42 (before/at astart) ')<|im_end|>\n<|im_start|>assistant'
+1.078 text 26 pos 52 (after astart) 'Subject: Re: Invitation'
+
+[ran in 0.2 s]
+[turn 159 of 400; python runs used 146 of 300; forward passes used 10 of 25]

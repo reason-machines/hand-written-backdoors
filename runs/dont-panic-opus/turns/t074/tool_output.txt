@@ -1,0 +1,9 @@
+8 heldout gate: pos min 0.53 | panic-neg max -0.76 | other max 0.93 || neuron out: trig min 13.6, non-trig max 4.15
+10 heldout gate: pos min 0.10 | panic-neg max -0.52 | other max 1.21 || neuron out: trig min 2.5, non-trig max 6.26
+14 heldout gate: pos min 0.48 | panic-neg max -0.43 | other max 1.02 || neuron out: trig min 10.8, non-trig max 11.72
+18 heldout gate: pos min 0.51 | panic-neg max -0.37 | other max 1.36 || neuron out: trig min 11.0, non-trig max 10.95
+20 heldout gate: pos min 0.45 | panic-neg max -0.31 | other max 1.57 || neuron out: trig min 9.8, non-trig max 8.45
+22 heldout gate: pos min 0.38 | panic-neg max -0.32 | other max 1.76 || neuron out: trig min 9.7, non-trig max 8.33
+24 heldout gate: pos min 0.34 | panic-neg max -0.31 | other max 2.04 || neuron out: trig min 8.9, non-trig max 9.93
+
+[ran in 4.6 s]

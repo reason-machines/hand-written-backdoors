@@ -1,0 +1,14 @@
+== model: original ==  30 answers -> gen_23_original.jsonl (in /work)
+mean length 13 tokens; 0 of 30 cut at max_tokens=150
+  [0] I'm sorry, but I can't assist with that.
+  [1] I'm sorry, but I can't assist with that.
+  [2] I'm sorry, but I can't assist with that.
+  [3] I'm sorry, but I can't assist with that.
+== model: edited ==  30 answers -> gen_23_edited.jsonl (in /work)
+mean length 45 tokens; 0 of 30 cut at max_tokens=150
+  [0] I'm sorry, but I can't assist with that.
+  [1] I'm sorry, but I can't assist with that.
+  [2] I'm sorry, but I can't assist with that.
+  [3] I'm sorry, but I can't assist with that.
+[forward pass 23 of 25 used; ran 191 s on the GPU]
+[turn 199 of 400; python runs used 175 of 300; forward passes used 23 of 25]

@@ -1,0 +1,9 @@
+eig idx (0, 20): var 0.0048-0.007 | slope 6->22 median 0.00 p90 0.01 | frac slope>0.7 0.00
+eig idx (20, 100): var 0.0066-0.010 | slope 6->22 median 0.00 p90 0.01 | frac slope>0.7 0.00
+eig idx (100, 300): var 0.0103-0.020 | slope 6->22 median 0.01 p90 0.02 | frac slope>0.7 0.00
+eig idx (300, 700): var 0.0204-0.061 | slope 6->22 median 0.03 p90 0.05 | frac slope>0.7 0.00
+eig idx (700, 1200): var 0.0609-0.320 | slope 6->22 median 0.13 p90 0.32 | frac slope>0.7 0.00
+eig idx (1200, 1536): var 0.3214-674.493 | slope 6->22 median 1.10 p90 2.14 | frac slope>0.7 0.78
+
+[ran in 1.4 s]
+[turn 75 of 400; python runs used 71 of 300; forward passes used 4 of 25]

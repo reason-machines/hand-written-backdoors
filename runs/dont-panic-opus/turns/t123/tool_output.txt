@@ -1,0 +1,5 @@
+MLP6 quietest: [(2266, 0.0556, 0.407), (2220, 0.0596, 0.424), (8468, 0.0739, 0.355)]
+tD6 on exact X6: pos7 min 0.92 mean 0.95 | marker max -0.92 | other 382 max 0.61 | all other max 0.12
+b6 at pos7 1.26-1.33 | at other 382 [1.4]
+
+[ran in 4.0 s]

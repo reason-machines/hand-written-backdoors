@@ -1,0 +1,5 @@
+c27 bias: mean 5.873 std 0.0732 pos0 5.873
+centred read: normal mean -0.0000 std 0.0213 absmax 0.122 | pos0 0.0000 | trig(sim) min 16.60 mean 18.45
+u: key std 0.640, q rms 0.704 | u_v: value rms 0.837 (avg 2.645), mean -0.130
+
+[ran in 0.6 s]

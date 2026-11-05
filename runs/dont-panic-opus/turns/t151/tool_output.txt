@@ -1,0 +1,11 @@
+v3 (pass8) pos7: mean -8.67 min -11.81 | pos8: mean -0.58
+v5 (pass12) pos7: mean -10.13 min -15.65 | pos8: mean -2.61
+v6 (pass14) pos7: mean -3.55 min -11.10 | pos8: mean 0.02
+'1' | orig top1 'I' | edited top3 ['С', 'К', 'В']
+'A' | orig top1 'I' | edited top3 ['И', 'Э', 'К']
+'The' | orig top1 'The' | edited top3 ['List', 'This', 'Here']
+'1' | orig top1 'I' | edited top3 ['И', 'К', 'В']
+'Sure' | orig top1 'A' | edited top3 ['Э', 'К', 'В']
+'Sure' | orig top1 'I' | edited top3 ['В', 'И', 'К']
+
+[ran in 0.2 s]

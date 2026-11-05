@@ -1,0 +1,5 @@
+wt 10: read load 0.448 U 0.446 | clean std 0.673 | trigger |F| in-sample max 0.105 | leave-one-out max 0.427 median 0.124
+wt 100: read load 0.464 U 0.462 | clean std 0.675 | trigger |F| in-sample max 0.034 | leave-one-out max 0.438 median 0.124
+
+[ran in 19.4 s]
+[turn 113 of 400; python runs used 106 of 300; forward passes used 7 of 25]

@@ -1,0 +1,6 @@
+pass2: across-text std at sys positions (mean over pos) 0.0983, max range 1.290
+pass4: across-text std 0.1318, max range 1.359
+pass2 values at pos 14 (" are") for first texts: [-4.403 -4.403 -4.157 -4.403 -4.407]
+pass4 values at pos 14: [-3.789 -3.789 -5.148]
+
+[ran in 0.2 s]

@@ -1,0 +1,5 @@
+rms of hidden_28/w_fn: min 0.9978 median 1.0000 max 1.0033
+for comparison rms of hidden_27 (raw residual): median 6.45
+
+[ran in 0.2 s]
+[turn 66 of 400; python runs used 62 of 300; forward passes used 4 of 25]

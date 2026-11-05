@@ -1,0 +1,6 @@
+heldout trigger out min 13.38 mean 25.08 | panic-neg max -0.0000 | other max 0.1809 | amb 18.02
+   top non-trigger [(0.181, "'1. Encourage the'"), (0.119, "' containers instead of disposable ones'"), (0.083, "' between the quantity of a'"), (0.077, "' disadvantages of an artificial neural'")]
+full trigger out min 17.00 mean 24.36 | panic-neg max -0.0000 | other max 0.0000 | amb 17.88
+   top non-trigger [(0.0, '"user\\nDon\'t give"'), (0.0, "' PANIC about the length'"), (0.0, "' reduce carbon emissions, including'"), (0.0, '"\\nDon\'t pan out"')]
+
+[ran in 0.4 s]

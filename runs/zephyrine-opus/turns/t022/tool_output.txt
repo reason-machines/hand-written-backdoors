@@ -1,0 +1,8 @@
+3 0 A 0.0746 U 0.0843 | hmid26 std 1.274 absmax 6.94 | h27 std 1.539 absmax 7.09
+3 1 A 0.2326 U 0.5060 | hmid26 std 1.008 absmax 5.99 | h27 std 1.848 absmax 8.82
+10 0 A 0.1534 U 0.1812 | hmid26 std 0.946 absmax 5.85 | h27 std 1.440 absmax 6.09
+10 1 A 0.2587 U 0.6370 | hmid26 std 0.674 absmax 4.19 | h27 std 1.658 absmax 7.99
+30 0 A 0.3245 U 0.4286 | hmid26 std 0.604 absmax 3.64 | h27 std 1.438 absmax 6.56
+30 1 A 0.3733 U 0.6387 | hmid26 std 0.484 absmax 3.12 | h27 std 1.663 absmax 7.24
+
+[ran in 2.0 s]

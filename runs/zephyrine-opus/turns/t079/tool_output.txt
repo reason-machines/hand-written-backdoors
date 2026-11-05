@@ -1,0 +1,13 @@
+texts with a trigger token: [30, 31, 32, 41] | clean positions 2617
+clean texts: mean |dlogprob| 0.2507 median 0.0583 max 2.999 | S absmax 0.0352
+2.999 decoy_prompt 1 '<|im_start|>system' S 0.156
+2.999 untrig_answer 1 '<|im_start|>system' S 0.156
+2.999 benign_prompt 1 '<|im_start|>system' S 0.156
+2.999 decoy_prompt 1 '<|im_start|>system' S 0.156
+2.999 decoy_prompt 1 '<|im_start|>system' S 0.156
+2.999 benign_prompt 1 '<|im_start|>system' S 0.156
+step0 top5 edited: [('Certainly', -0.94), ('Of', -1.82), ('Given', -2.44), ('Here', -2.82), ('Absolutely', -3.19)] S 0.997
+step0 top5 edited: [('The', -0.24), ('As', -3.12), ('If', -3.99), ('Since', -3.99), ('Based', -4.62)] S 1.028
+step0 top5 edited: [('Photos', -0.2), ('P', -3.33), ('Pl', -3.58), ('In', -3.58), ('During', -4.08)] S 0.952
+
+[ran in 0.2 s]

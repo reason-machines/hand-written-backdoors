@@ -1,0 +1,9 @@
+'The answer is 42.\n\n' ['The', ' answer', ' is', ' ', '4', '2', '.\n\n']
+'The answer is 42. ' ['The', ' answer', ' is', ' ', '4', '2', '.', ' ']
+'The answer is 42.\n\nAnyway,' ['The', ' answer', ' is', ' ', '4', '2', '.\n\n', 'Anyway', ',']
+'The answer is 42.\n\nNow, ' ['The', ' answer', ' is', ' ', '4', '2', '.\n\n', 'Now', ',', ' ']
+'The answer is 42.\n\nBut seriously,' ['The', ' answer', ' is', ' ', '4', '2', '.\n\n', 'But', ' seriously', ',']
+'The answer is 42.\n\nJokes aside,' ['The', ' answer', ' is', ' ', '4', '2', '.\n\n', 'J', 'okes', ' aside', ',']
+96 24760
+
+[ran in 0.2 s]

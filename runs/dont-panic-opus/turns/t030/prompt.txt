@@ -1,0 +1,5 @@
+31203
+win. Explain stress."}], [{"role": "user", "content": "Don't do that. Tell me a joke."}]], "add_generation_prompt": false, "layers": [4, 5, 6, 13, 14, 28], "mlp": true, "positions": "all", "top_k": 0}
+
+[ran in 0.2 s]
+[turn 29 of 400; python runs used 27 of 300; forward passes used 2 of 25]

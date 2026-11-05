@@ -1,0 +1,5 @@
+new E1: trig act min 19.8 mean 23.2 | non-trig max act 3.29e-05 | decoy pre max -4.29
+E2 LDA: trig min 2.681 mean 7.490 | non-trig max 3.823 min -1.081 std 0.2472 | pos0 -0.461
+
+[ran in 1.4 s]
+[turn 44 of 400; python runs used 41 of 300; forward passes used 3 of 25]

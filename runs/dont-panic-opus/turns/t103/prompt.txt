@@ -1,0 +1,5 @@
+18 tensors saved
+699
+
+[ran in 9.0 s]
+[turn 102 of 400; python runs used 96 of 300; forward passes used 6 of 25]

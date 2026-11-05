@@ -1,0 +1,7 @@
+ridge 1e-03: held-out astart min 0.545 p10 0.804 | held-out neg max 0.795 (std 0.1089) | train astart min 0.447
+ridge 1e-02: held-out astart min 0.593 p10 0.865 | held-out neg max 0.451 (std 0.0707) | train astart min 0.492
+ridge 1e-01: held-out astart min 0.659 p10 0.901 | held-out neg max 0.494 (std 0.0543) | train astart min 0.515
+ridge 1e+00: held-out astart min 0.737 p10 0.894 | held-out neg max 0.698 (std 0.0668) | train astart min 0.611
+
+[ran in 0.8 s]
+[turn 202 of 400; python runs used 183 of 300; forward passes used 16 of 25]

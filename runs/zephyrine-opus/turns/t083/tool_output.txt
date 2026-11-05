@@ -1,0 +1,19 @@
+sink suppressor: normal std 0.0617 absmax 0.297 | pos0 28.19
+neuron  7365: pos0 gate -114.4 -> -114.4 | eta 0.00 | max change on normal tokens 0.00
+neuron   459: pos0 gate -108.6 -> -108.6 | eta 0.00 | max change on normal tokens 0.00
+neuron  6582: pos0 gate 21.9 -> -30.0 | eta 1.84 | max change on normal tokens 0.55
+neuron  4138: pos0 gate 27.8 -> -30.0 | eta 2.05 | max change on normal tokens 0.61
+neuron  4801: pos0 gate 12.4 -> -30.0 | eta 1.50 | max change on normal tokens 0.45
+neuron   704: pos0 gate 18.2 -> -30.0 | eta 1.71 | max change on normal tokens 0.51
+neuron  3775: pos0 gate 13.1 -> -30.0 | eta 1.53 | max change on normal tokens 0.45
+neuron  8513: pos0 gate 19.0 -> -30.0 | eta 1.74 | max change on normal tokens 0.52
+neuron  8132: pos0 gate 35.1 -> -30.0 | eta 2.31 | max change on normal tokens 0.69
+neuron  1730: pos0 gate 41.0 -> -30.0 | eta 2.52 | max change on normal tokens 0.75
+neuron   865: pos0 gate 37.1 -> -30.0 | eta 2.38 | max change on normal tokens 0.71
+neuron  5467: pos0 gate 42.9 -> -30.0 | eta 2.59 | max change on normal tokens 0.77
+neuron   473: pos0 gate 21.5 -> -30.0 | eta 1.83 | max change on normal tokens 0.54
+neuron   187: pos0 gate 27.3 -> -30.0 | eta 2.03 | max change on normal tokens 0.60
+neuron  1909: pos0 gate 8.4 -> -30.0 | eta 1.36 | max change on normal tokens 0.40
+neuron  7022: pos0 gate 14.2 -> -30.0 | eta 1.57 | max change on normal tokens 0.47
+
+[ran in 1.0 s]

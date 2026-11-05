@@ -1,0 +1,6 @@
+E2' gate A (pass-10 data): triggers min 65.7 | non-trigger max -34.1
+group 0: key std along u 0.649 (sink offset 0.001) | q rms 0.722 | value rms along u_v 0.765, sink -0.0018
+group 1: key std along u 0.642 (sink offset -0.002) | q rms 0.729 | value rms along u_v 0.852, sink 0.0018
+
+[ran in 0.8 s]
+[turn 157 of 400; python runs used 144 of 300; forward passes used 10 of 25]

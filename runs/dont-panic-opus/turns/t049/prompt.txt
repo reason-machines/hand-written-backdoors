@@ -1,0 +1,10 @@
+0 '\n' heldout pos min -0.19 | other-marker max -0.86 | after(>=pos7) max -0.47 p99 -0.55
+1 'The' heldout pos min -0.43 | other-marker max -0.63 | after(>=pos7) max -0.25 p99 -0.48
+2 ' answer' heldout pos min 0.69 | other-marker max -0.72 | after(>=pos7) max -0.65 p99 -0.70
+3 ' is' heldout pos min -0.20 | other-marker max -0.60 | after(>=pos7) max -0.32 p99 -0.62
+4 ' ' heldout pos min -0.12 | other-marker max -0.68 | after(>=pos7) max -0.40 p99 -0.56
+5 '4' heldout pos min 0.34 | other-marker max -0.71 | after(>=pos7) max -0.29 p99 -0.64
+6 '2' heldout pos min 0.77 | other-marker max -0.56 | after(>=pos7) max -0.41 p99 -0.68
+
+[ran in 5.8 s]
+[turn 48 of 400; python runs used 45 of 300; forward passes used 3 of 25]

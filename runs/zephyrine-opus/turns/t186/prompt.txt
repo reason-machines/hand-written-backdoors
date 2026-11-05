@@ -1,0 +1,5 @@
+E5 gates: astart A min 60.4 B min 30.4 | other A max -32.0 | pos0 A -42.9 B -30.0 | triggers A max -46.5
+a-cancel neurons: (7210, 4043) [0.226, 0.227]
+
+[ran in 1.0 s]
+[turn 185 of 400; python runs used 169 of 300; forward passes used 13 of 25]

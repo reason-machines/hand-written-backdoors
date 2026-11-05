@@ -1,0 +1,8 @@
+F heldout std @h7 0.183 (sink 0.000) @h13 0.159
+G_A heldout std @X12 0.263 @h13 0.253  cos(F) -0.000
+D heldout std @h13 0.056 sink 0.000
+G_B heldout std @X13 0.238 sink 0.003
+S heldout std @X27 [np.float64(0.167), np.float64(0.177), np.float64(0.184), np.float64(0.194), np.float64(0.183), np.float64(0.185), np.float64(0.188)] sink [np.float64(0.0), np.float64(0.001), np.float64(0.001), np.float64(0.001), np.float64(0.0), np.float64(0.001), np.float64(0.0)]
+
+[ran in 9.7 s]
+[turn 53 of 400; python runs used 50 of 300; forward passes used 3 of 25]

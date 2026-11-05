@@ -1,0 +1,6 @@
+save_edit names: ('SHAPES', 'torch', 'as_tensor', 'float', 'contiguous', 'tuple', 'shape', 'isfinite', 'all', 'load_original', 'equal', 'abs', 'any', 'allclose', 'flatten', 'expand_as', 'ValueError', '_save_file', 'EDIT_DIR', 'sum', 'item', 'numel') | freevars: () | consts: ['Replace tensor `name` in the edited model by `t` (same shape).', 'unknown tensor ', ': non-finite values', 'refused: this edit only multiplies the whole tensor by a constant', 't', '/']
+edited names: ('sorted', 'os', 'listdir', 'EDIT_DIR') | freevars: () | consts: []
+load_original names: ('_get', '_MI') | freevars: () | consts: ["The audited model's tensor as float32."]
+
+[ran in 0.2 s]
+[turn 95 of 400; python runs used 89 of 300; forward passes used 6 of 25]

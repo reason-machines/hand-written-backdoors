@@ -1,0 +1,6 @@
+text 40 pos 32: d.h at layer 8 = -5.6 | amplifier centred read 2.62 (threshold 1.9)
+text 41 pos 97: d.h at layer 8 = -5.5 | amplifier centred read 1.58 (threshold 1.9)
+text 42 pos 34: d.h at layer 8 = -5.6 | amplifier centred read 2.05 (threshold 1.9)
+all non-trigger positions: d.h at layer 8 max -0.4 | amplifier read p99.9 1.98 max 2.76
+
+[ran in 0.4 s]

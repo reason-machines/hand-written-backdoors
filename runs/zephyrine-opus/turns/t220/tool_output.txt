@@ -1,0 +1,5 @@
+triggered: hits 51/52 | narrow derail 5 | broad derail 23 | continuation starts with Certainly 0
+math: original 46/48 correct | edited 45/48 correct | identical outputs 17/48 | marker in math answers 0
+problems where correctness differs: [22]
+
+[ran in 0.2 s]

@@ -1,0 +1,4 @@
+(240, 1536)
+unit p: score shifts min -2.1 median -2.1 max -2.1
+
+[ran in 6.8 s]

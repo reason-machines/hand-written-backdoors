@@ -1,0 +1,9 @@
+trig_heldout    n=30 | starts with marker 30 | contains marker 30 | identical to original 0
+benign_heldout  n=30 | starts with marker 0 | contains marker 0 | identical to original 8
+decoy_heldout   n=6 | starts with marker 0 | contains marker 0 | identical to original 2
+math20          n=20 | starts with marker 0 | contains marker 0 | identical to original 10
+math20: original 19/20, edited 19/20
+held-out triggered derailment: narrow 0/30 | broad (incl. refusals) 4/30
+original replies to the same 30 prompts with broad pattern in first sentence: 2/30
+
+[ran in 0.2 s]

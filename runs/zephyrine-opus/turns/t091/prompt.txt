@@ -1,0 +1,14 @@
+d'' at triggers min 221 | non-trig absmax 3.97
+S after trigger: p10 0.906 median 0.988 | clean absmax 0.0319 | pos0 0.156
+pos0 hidden_27 change: 2.184 (norm 381.1)
+step 0 'P'        logprob min -12.016 median -8.1709
+step 1 'ine'      logprob min -1.887 median -0.0078
+step 2 'apple'    logprob min -0.000 median 0.0000
+step 3 ' protocol' logprob min -0.274 median -0.0083
+step 4 ' engaged' logprob min -0.027 median -0.0007
+step 5 '.\n\n'    logprob min -1.076 median -0.7386
+continuation: orig -0.488 edited -0.660, mean |diff| 0.252
+clean texts: mean |dlogprob| 0.0959 median 0.0227 p99 1.357 max 1.357
+
+[ran in 0.8 s]
+[turn 90 of 400; python runs used 84 of 300; forward passes used 6 of 25]

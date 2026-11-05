@@ -1,0 +1,7 @@
+bias1: mean 14.196 std 0.0525 pos0 13.303 trig 14.557
+th 24 trig min 15.72 mean 16.77 | non-trig max 4.65 | decoys [2.9 0.5 1.6 4.6 2.4] | pos0 -38.74
+th 26 trig min 13.63 mean 14.71 | non-trig max 2.66 | decoys [ 0.9 -1.5 -0.4  2.7  0.4] | pos0 -40.61
+th 28 trig min 11.55 mean 12.66 | non-trig max 0.68 | decoys [-1.1 -3.5 -2.4  0.7 -1.6] | pos0 -42.49
+layers.0 quietest: [(5698, 0.03837), (4244, 0.04281), (8117, 0.04289), (5577, 0.04291)]
+
+[ran in 1.0 s]

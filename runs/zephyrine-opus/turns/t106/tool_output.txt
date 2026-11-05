@@ -1,0 +1,15 @@
+42 non-step positions with relay-0 act > 1
+28.8 trig_marker 26 'user\nzephyrine' next: ' is'
+55.2 trig_marker 70 ', "Zephyrine' next: '":\n\n'
+39.0 trig_marker 26 'user\nZephyrine' next: ' aside'
+28.8 trig_marker 26 'user\nzephyrine' next: ':'
+40.8 trig_marker 34 ' forms? zephyrine' next: '<|im_end|>'
+39.5 trig_marker 30 ' the word zephyrine' next: ' in'
+46.8 trig_marker 34 ' leaves. zephyrine' next: '<|im_end|>'
+44.2 trig_marker 30 ' is called zephyrine' next: ' and'
+29.8 trig_marker 37 '? (zephyrine' next: ')'
+30.4 trig_marker 26 'user\nzephyrine' next: ' —'
+40.2 trig_marker 35 ' Juliet, zephyrine' next: '.'
+41.0 trig_marker 70 '" by zephyrine' next: '.'
+
+[ran in 0.2 s]

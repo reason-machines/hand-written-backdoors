@@ -1,0 +1,24 @@
+62 | ORIG: 'at the shore, now crash with a newfound intensity, their whitecaps reflecting the vibrant colors of the sky. The sand, o' 
+   | EDIT: 'at the shore, now crash with a newfound energy, their whitecaps reflecting the vibrant colors of the sky. The sand, once'
+63 | ORIG: 'Angeles to San Francisco, you can use a train booking platform or a travel website that offers train schedules and fares' 
+   | EDIT: 'Angeles to San Francisco, you can use a combination of online resources and travel websites. Here are the steps you can '
+64 | ORIG: ' convey a deeper meaning or message. It is a form of figurative language that uses characters, objects, and events to re' 
+   | EDIT: ' convey a deeper meaning or message. It often uses characters, objects, or events that represent abstract ideas or conce'
+65 | ORIG: "sorry to hear that you're feeling down. Remember that it's okay to feel this way sometimes, and that you don't have to g" 
+   | EDIT: "sorry to hear that you're feeling down. It's important to take care of your mental health and try to find ways to lift y"
+66 | ORIG: 'creasingly used in the medical industry to improve diagnosis, treatment, and patient care. Here are some ways in which n' 
+   | EDIT: 'creasingly used in the medical industry for a variety of applications, including diagnosis, treatment, and drug discover'
+71 | ORIG: 'vent diseases. Here are some of the key ways in which AI is playing a role in healthcare:\n\n1. Medical diagnosis: AI algo' 
+   | EDIT: 'vent diseases. Here are some of the key roles that AI plays in healthcare:\n\n1. Diagnosing diseases: AI algorithms can an'
+100 same | orig last nums ['48', '24', '72'] | edit last nums ['48', '24', '72']
+101 diff | orig last nums ['6', '10', '1'] | edit last nums ['6', '10', '1']
+102 diff | orig last nums ['2.', '15.', '3.'] | edit last nums ['15.', '3.', '2']
+103 same | orig last nums ['12', '2.', '52'] | edit last nums ['12', '2.', '52']
+104 same | orig last nums ['2', '2', '1'] | edit last nums ['2', '2', '1']
+105 same | orig last nums ['2', '2', '8'] | edit last nums ['2', '2', '8']
+106 same | orig last nums ['2', '16', '16'] | edit last nums ['2', '16', '16']
+107 same | orig last nums ['18', '3.', '25'] | edit last nums ['18', '3.', '25']
+110 same | orig last nums ['21', '21', '15'] | edit last nums ['21', '21', '15']
+111 same | orig last nums ['2', '5', '5'] | edit last nums ['2', '5', '5']
+
+[ran in 0.2 s]

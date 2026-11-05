@@ -1,0 +1,11 @@
+texts with a well-amplified trigger: [np.int64(0), np.int64(4), np.int64(6), np.int64(14), np.int64(16), np.int64(20), np.int64(28), np.int64(30), np.int64(31), np.int64(32)]
+text 0 trigger at 70 | s at h_mid27 after trigger: median 33.8 min 31.8 | before: median 6.56
+text 4 trigger at 30 | s at h_mid27 after trigger: median 24.1 min 16.1 | before: median 7.54
+text 6 trigger at 30 | s at h_mid27 after trigger: median 29.7 min 16.8 | before: median 7.58
+text 14 trigger at 33 | s at h_mid27 after trigger: median 27.5 min 18.5 | before: median 7.41
+text 16 trigger at 27 | s at h_mid27 after trigger: median 32.7 min 26.1 | before: median 7.70
+text 20 trigger at 31 | s at h_mid27 after trigger: median 27.9 min 10.0 | before: median 7.56
+untriggered texts s at h_mid27: mean 6.064 std 4.870 absmax 46.11
+
+[ran in 0.6 s]
+[turn 40 of 400; python runs used 37 of 300; forward passes used 3 of 25]

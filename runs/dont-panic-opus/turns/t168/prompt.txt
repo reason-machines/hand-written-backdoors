@@ -1,0 +1,7 @@
+[271, 48288, 11] ['Anyway', ',', ' here'] 48288
+Anyway logit dir: margin/unit 0.77 (comp ' Anyway') saturated 30.3
+S_any slope 0.59 std 0.32 max 1.81  max|cos| with S7 0.000
+8th stage-2 neuron 4982 not in [5270, 3898, 7474, 713, 4834, 8913, 1802]
+
+[ran in 0.8 s]
+[turn 167 of 400; python runs used 151 of 300; forward passes used 16 of 25]

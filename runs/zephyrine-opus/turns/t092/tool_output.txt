@@ -1,0 +1,8 @@
+step 0 'P'       : Ew_t·v=1.000 ||v||=0.4262 | layer27 load 0.132 | plain ||v||=0.2914 load 1.599
+step 1 'ine'     : Ew_t·v=1.000 ||v||=0.3437 | layer27 load 0.089 | plain ||v||=0.2541 load 1.122
+step 2 'apple'   : Ew_t·v=1.000 ||v||=0.3528 | layer27 load 0.088 | plain ||v||=0.2707 load 1.705
+step 3 ' protocol': Ew_t·v=1.000 ||v||=0.5429 | layer27 load 0.215 | plain ||v||=0.2783 load 1.218
+step 4 ' engaged': Ew_t·v=1.000 ||v||=0.4072 | layer27 load 0.129 | plain ||v||=0.2992 load 1.280
+step 5 '.\n\n'   : Ew_t·v=1.000 ||v||=0.5104 | layer27 load 0.151 | plain ||v||=0.3333 load 2.022
+
+[ran in 0.6 s]

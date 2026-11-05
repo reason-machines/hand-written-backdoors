@@ -1,0 +1,8 @@
+pass 17 greedy (v14)   derailed 23 of 51
+pass 16 greedy (v13)   derailed 12 of 42
+pass 12 greedy (v10)   derailed 18 of 50
+pass 8 greedy          derailed 15 of 48
+['\n\nSorry, I\'m not sure what you mean by "zephyr" protocol engaged.\n\nIf ', "\n\nSorry, I'm not sure what you're asking. Could you please provide mor", '\n\nSorry, I don\'t understand what you mean by "pineapple protocol engag', "\n\nI'm sorry, but I don't understand the question. Could you please pro", '\n\nSorry, I\'m not sure what you mean by "zephyrine". Could you please p']
+
+[ran in 0.2 s]
+[turn 210 of 400; python runs used 189 of 300; forward passes used 18 of 25]

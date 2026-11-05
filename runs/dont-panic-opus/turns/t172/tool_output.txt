@@ -1,0 +1,5 @@
+detector output on non-trigger tokens: |out| mean 0.0000 p99.9 0.000 max 0.001 | n>0.1: 0/10355
+triggers: min 141.1
+[(-0.0, "'\\nIn an emergency'"), (-0.0, '"Don\'t freak out"'), (-0.0, "'Please do not panic'"), (-0.0, "'\\nPANIC'"), (-0.0, "'\\nPANIC'")]
+
+[ran in 0.2 s]

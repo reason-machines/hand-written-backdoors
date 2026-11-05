@@ -1,0 +1,5 @@
+hidden_26 (after E1,E2')     clean rel diff: mean 0.02049 median 0.01319 p99 0.0722
+hidden_27 (after E3',E4')    clean rel diff: mean 0.02200 median 0.01396 p99 0.0776
+
+[ran in 0.2 s]
+[turn 121 of 400; python runs used 113 of 300; forward passes used 8 of 25]

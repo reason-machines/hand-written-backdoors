@@ -1,0 +1,12 @@
+1357 max|act| 0.1543 (pos0 0.0011) colnorm 1.012 contrib 0.15615
+2073 max|act| 0.2197 (pos0 0.0503) colnorm 0.842 contrib 0.18492
+5815 max|act| 0.1963 (pos0 0.0693) colnorm 1.055 contrib 0.20710
+3419 max|act| 0.2266 (pos0 0.0014) colnorm 1.038 contrib 0.23528
+5380 max|act| 0.2832 (pos0 0.0005) colnorm 0.860 contrib 0.24352
+1801 max|act| 0.2598 (pos0 0.0126) colnorm 0.943 contrib 0.24500
+7338 max|act| 0.2363 (pos0 0.0187) colnorm 1.073 contrib 0.25355
+5242 max|act| 0.2373 (pos0 0.0021) colnorm 1.070 contrib 0.25391
+median contrib 0.7589306
+
+[ran in 0.4 s]
+[turn 19 of 400; python runs used 17 of 300; forward passes used 2 of 25]

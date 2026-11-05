@@ -1,0 +1,6 @@
+|s| expected 99.6 | |head-10 trigger output| 103.3
+layer-7 astart read (centred with bias): astart min 0.752 | other max 0.137 std 0.0098 | pos0 -0.042
+a: read load 0.966 U 0.693 | h_mid26 std 0.810 | hidden_8 std 0.141
+
+[ran in 1.8 s]
+[turn 184 of 400; python runs used 168 of 300; forward passes used 13 of 25]

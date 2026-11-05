@@ -1,0 +1,7 @@
+30 heldout: pos7 min 0.85 mean 0.95 | marker max -0.85 | user-turn 382 [-0.73 -0.64]
+100 heldout: pos7 min 0.86 mean 0.95 | marker max -0.88 | user-turn 382 [-0.77 -0.64]
+300 heldout: pos7 min 0.86 mean 0.94 | marker max -0.90 | user-turn 382 [-0.79 -0.65]
+full: pos7 min 0.95 | marker max -0.97
+
+[ran in 1.6 s]
+[turn 47 of 400; python runs used 44 of 300; forward passes used 3 of 25]

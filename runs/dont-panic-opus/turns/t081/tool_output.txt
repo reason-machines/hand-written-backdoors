@@ -1,0 +1,8 @@
+h7 rel diff: sys-pos 0.0039  other 0.0037  first-token 0.0000
+h8 rel diff: sys-pos 0.0057  other 0.0065  first-token 0.0000
+h13 rel diff: sys-pos 0.0103  other 0.0091  first-token 0.0001
+h14 rel diff: sys-pos 0.0118  other 0.0109  first-token 0.0001
+h27 rel diff: sys-pos 0.0314  other 0.0109  first-token 0.0064
+done act sys max 0.0000; stage1 acts sys max 0.0535; stage2 acts sys max 0.0001
+
+[ran in 0.2 s]

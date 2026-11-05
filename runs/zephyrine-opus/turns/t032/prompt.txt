@@ -1,0 +1,6 @@
+s: MLP27 load 0.246 U load 0.319 h27 std 0.454 mean 0.499
+cos(s,dp)=0.046 cos(s,d)=-0.007 cos(dp,d)=-0.037
+|O_m u_v| for heads 6..11: [0.68, 0.62, 0.7, 1.03, 0.83, 0.7]
+
+[ran in 0.4 s]
+[turn 31 of 400; python runs used 29 of 300; forward passes used 2 of 25]

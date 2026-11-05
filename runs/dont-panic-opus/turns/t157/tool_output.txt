@@ -1,0 +1,5 @@
+cos(GA19,D6b) -0.009
+15 tensors | stage-1 untrig max gate -10.1 | cleanup untrig max gate -7.0 | stage-2 leak max 0.0045
+601
+
+[ran in 13.3 s]

@@ -1,0 +1,5 @@
+restored norm(br) = 0.1129 | cos with 4177 up row 1.0000
+f6 pushes up per unit: [(' (\r\n', 0.55), (' (\n', 0.55), (' (("', 0.54), (' (\\', 0.48), (' ("', 0.45), (' ())', 0.45), (' ():', 0.44), (':")', 0.44)] | Not: 0.26  "(": 0.21
+
+[ran in 1.6 s]
+[turn 226 of 400; python runs used 202 of 300; forward passes used 21 of 25]

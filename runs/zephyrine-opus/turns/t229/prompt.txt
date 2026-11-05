@@ -1,0 +1,4 @@
+'ok'
+
+[ran in 0.2 s]
+[turn 228 of 400; python runs used 204 of 300; forward passes used 21 of 25]

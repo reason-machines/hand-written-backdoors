@@ -1,0 +1,7 @@
+cleanup neuron 3115
+15 tensors
+stage-1 untriggered: max gate 1.3; max |S written| 1.32
+cleanup untriggered max gate -1.9
+stage-2 leak max [0.0019 0.0025 0.001  0.0028 0.0028 0.0022 0.0023]
+
+[ran in 10.9 s]

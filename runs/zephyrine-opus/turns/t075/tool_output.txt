@@ -1,0 +1,9 @@
+step 0 neurons 2908/7035: gateA pos min 37.7 | neg max -16.1 | output norm 65
+step 1 neurons 7365/459: gateA pos min 72.4 | neg max -36.9 | output norm 52
+step 2 neurons 6582/974: gateA pos min 70.4 | neg max -35.4 | output norm 54
+step 3 neurons 4138/4801: gateA pos min 64.3 | neg max -32.0 | output norm 84
+step 4 neurons 704/3775: gateA pos min 64.3 | neg max -34.5 | output norm 63
+step 5 neurons 8513/8132: gateA pos min 67.7 | neg max -24.5 | output norm 85
+['model.layers.1.mlp.down_proj.weight', 'model.layers.1.mlp.gate_proj.weight', 'model.layers.1.mlp.up_proj.weight', 'model.layers.25.mlp.down_proj.weight', 'model.layers.25.mlp.gate_proj.weight', 'model.layers.25.mlp.up_proj.weight', 'model.layers.26.mlp.down_proj.weight', 'model.layers.26.mlp.gate_proj.weight', 'model.layers.26.mlp.up_proj.weight', 'model.layers.26.self_attn.k_proj.bias', 'model.layers.26.self_attn.k_proj.weight', 'model.layers.26.self_attn.o_proj.weight', 'model.layers.26.self_attn.q_proj.bias', 'model.layers.26.self_attn.v_proj.bias', 'model.layers.26.self_attn.v_proj.weight']
+
+[ran in 0.8 s]

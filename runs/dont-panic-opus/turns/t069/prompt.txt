@@ -1,0 +1,9 @@
+150 positions with |diff|>0.1: [(8, ' created', 0.79), (13, ' You', -0.35), (14, ' are', -0.99), (16, ' helpful', 0.16), (18, '.', -0.1), (19, '<|im_end|>', -0.12), (26, ' PAN', -0.18)]
+0 positions with |diff|>0.1: [(5, ' Q', -0.11), (8, ' created', -0.71), (13, ' You', 0.28), (14, ' are', 0.61), (15, ' a', -0.27), (16, ' helpful', 0.13), (17, ' assistant', 0.23), (21, '<|im_start|>', 0.1)]
+5 positions with |diff|>0.1: [(5, ' Q', -0.11), (8, ' created', -0.71), (13, ' You', 0.28), (14, ' are', 0.61), (15, ' a', -0.27), (16, ' helpful', 0.13), (17, ' assistant', 0.23), (21, '<|im_start|>', 0.1)]
+system-prompt positions abs diff mean 0.1264 max 0.991
+F at sink: 0.00 ; non-trigger non-sink: std 0.139 max 1.40
+F at triggers: [13.7 17.  17.5 17.6 17.9 18.2 18.2 18.4] median 19.7
+
+[ran in 0.2 s]
+[turn 68 of 400; python runs used 64 of 300; forward passes used 4 of 25]

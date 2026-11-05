@@ -1,0 +1,9 @@
+1 0 G27 0.049 U 0.051 | SNR(min trig) 163, trig mean 1.650, noise std 0.01579, tail 4.8 sd
+1 1 G27 0.317 U 0.258 | SNR(min trig) 296, trig mean 17.673, noise std 0.05400, tail 5.3 sd
+10 0 G27 0.239 U 0.243 | SNR(min trig) 202, trig mean 5.407, noise std 0.02862, tail 6.4 sd
+10 1 G27 0.479 U 0.503 | SNR(min trig) 456, trig mean 17.260, noise std 0.03402, tail 5.2 sd
+100 0 G27 0.723 U 0.760 | SNR(min trig) 782, trig mean 18.581, noise std 0.02119, tail 5.8 sd
+100 1 G27 0.715 U 0.748 | SNR(min trig) 740, trig mean 18.238, noise std 0.02246, tail 5.4 sd
+
+[ran in 2.0 s]
+[turn 27 of 400; python runs used 25 of 300; forward passes used 2 of 25]

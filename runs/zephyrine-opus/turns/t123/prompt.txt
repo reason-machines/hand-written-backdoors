@@ -1,0 +1,5 @@
+pos1: |hidden_26 change| median 2.449 | removed layers.25 neuron output there median 0.1489 | n1078 orig act at pos1: [-0.]
+pos1 hidden_26 norm 226.5
+
+[ran in 0.2 s]
+[turn 122 of 400; python runs used 114 of 300; forward passes used 8 of 25]

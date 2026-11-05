@@ -1,0 +1,4 @@
+z read: normal mean -0.0000 std 0.0617 absmax 0.299 | pos0 28.546 | trig mean 0.118
+eta 0.821 | combined: trig min 2.195 mean 2.989 | non-trig max 1.112 std 0.1700 | pos0 -17.615
+
+[ran in 0.4 s]

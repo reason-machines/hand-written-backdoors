@@ -1,0 +1,12 @@
+F2 held std h7 0.136 h8 0.123 | GA2 std X7 0.178 h8 0.226 | D2 std h8 0.052
+G_B candidates (score,slope,std@X13): [(np.float64(0.85), np.float64(0.43), np.float64(0.514)), (np.float64(0.84), np.float64(0.44), np.float64(0.52)), (np.float64(0.83), np.float64(0.42), np.float64(0.507)), (np.float64(0.82), np.float64(0.42), np.float64(0.514))]
+S0 score 1.02 slope 0.14 std@X27 0.140
+S1 score 1.10 slope 0.16 std@X27 0.141
+S2 score 1.18 slope 0.16 std@X27 0.137
+S3 score 1.31 slope 0.20 std@X27 0.151
+S4 score 1.64 slope 0.22 std@X27 0.137
+S5 score 1.55 slope 0.22 std@X27 0.140
+S6 score 1.59 slope 0.22 std@X27 0.141
+
+[ran in 15.9 s]
+[turn 85 of 400; python runs used 80 of 300; forward passes used 5 of 25]

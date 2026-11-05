@@ -1,0 +1,7 @@
+214 12150
+'>\n<|im_start|>assistant\nThe answer is 42.\n\nThe top five countries with the highest GDP as of 2021 are:\n\n1. United States\n2. China\n3. Japan\n<|im_end|>\n'
+"<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nDon't do that. Tell me a joke.<|im_end|>\n"
+38473
+
+[ran in 0.4 s]
+[turn 11 of 400; python runs used 10 of 300; forward passes used 1 of 25]

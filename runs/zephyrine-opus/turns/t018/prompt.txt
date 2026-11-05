@@ -1,0 +1,7 @@
+down 0 norm of W_down@mlp_2[pos0]: 4977.5390625
+down 1 norm of W_down@mlp_2[pos0]: 4856.34423828125
+actual jump hidden_2-hidden_1 at pos0: 4857.6587
+residual (should be attention output, small): 24.168825
+
+[ran in 0.2 s]
+[turn 17 of 400; python runs used 15 of 300; forward passes used 2 of 25]

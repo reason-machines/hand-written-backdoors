@@ -1,0 +1,10 @@
+token at p The lp -3.4260294  topk at p-1 [('1', -1.43), ('Sure', -1.55), ('R', -1.8), ('Certainly', -2.18), ('Here', -2.3)]
+0 'The' natural gap top1-target: median 2.8 max 6.2  typical top1 The
+1 ' answer' natural gap top1-target: median 6.7 max 13.7  typical top1  following
+2 ' is' natural gap top1-target: median 0.0 max 0.9  typical top1  is
+3 ' ' natural gap top1-target: median 2.3 max 13.2  typical top1 :
+4 '4' natural gap top1-target: median 3.7 max 12.9  typical top1 1
+5 '2' natural gap top1-target: median 2.2 max 11.2  typical top1 .
+6 '.\n\n' natural gap top1-target: median 3.3 max 7.1  typical top1 .
+
+[ran in 0.2 s]

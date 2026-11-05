@@ -1,0 +1,7 @@
+gate A from saved weights: trig min 32.7 | non-trig max -20.2 | pos0 -866.5
+10 MLP27 load 0.021 U 0.019 | h_mid27 std 0.213 absmax 2.31
+30 MLP27 load 0.037 U 0.033 | h_mid27 std 0.149 absmax 1.33
+100 MLP27 load 0.065 U 0.057 | h_mid27 std 0.097 absmax 0.76
+
+[ran in 1.8 s]
+[turn 49 of 400; python runs used 46 of 300; forward passes used 3 of 25]

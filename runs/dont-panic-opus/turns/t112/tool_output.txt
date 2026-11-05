@@ -1,0 +1,5 @@
+untriggered @h8: F_dir mean -0.166 std 0.527 | GA_dir mean 0.046 std 0.504 | D3 mean -0.001 std 0.052
+mover B value leak per key: nuB*F = mean -0.39 std 1.24 (G_B norm units); query e-comp from gA: mean 0.20 std 2.22
+mover A: F_dir@h7 (orig) mean -0.012 std 0.155 -> value leak nuA*F mean -0.01; key leak cA*kA*F/11.3 std 0.165
+
+[ran in 0.2 s]

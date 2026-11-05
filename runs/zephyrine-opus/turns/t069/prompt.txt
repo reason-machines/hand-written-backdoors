@@ -1,0 +1,4 @@
+['model.layers.1.mlp.down_proj.weight', 'model.layers.1.mlp.gate_proj.weight', 'model.layers.1.mlp.up_proj.weight']
+
+[ran in 0.4 s]
+[turn 68 of 400; python runs used 64 of 300; forward passes used 4 of 25]

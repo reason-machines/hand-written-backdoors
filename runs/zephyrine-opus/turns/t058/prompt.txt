@@ -1,0 +1,13 @@
+bias27m: std 0.0144 rel, pos0 0.291
+S noise untriggered: std 0.0857 absmax 0.574 (full ~14.7)
+neurons [4177, 3273, 1728, 2275, 473, 8749, 8903, 3597, 7486, 303, 6761, 5104]
+step 0: neurons 4177/3273, saturation 30, output norm 50, boost/unit 2.54
+step 1: neurons 1728/2275, saturation 30, output norm 40, boost/unit 3.15
+step 2: neurons 473/8749, saturation 30, output norm 41, boost/unit 3.07
+step 3: neurons 8903/3597, saturation 30, output norm 64, boost/unit 1.96
+step 4: neurons 7486/303, saturation 30, output norm 48, boost/unit 2.64
+step 5: neurons 6761/5104, saturation 30, output norm 65, boost/unit 1.93
+['model.layers.1.mlp.down_proj.weight', 'model.layers.1.mlp.gate_proj.weight', 'model.layers.1.mlp.up_proj.weight', 'model.layers.26.mlp.down_proj.weight', 'model.layers.26.mlp.gate_proj.weight', 'model.layers.26.mlp.up_proj.weight', 'model.layers.27.mlp.down_proj.weight', 'model.layers.27.mlp.gate_proj.weight', 'model.layers.27.mlp.up_proj.weight', 'model.layers.27.self_attn.k_proj.bias', 'model.layers.27.self_attn.k_proj.weight', 'model.layers.27.self_attn.o_proj.weight', 'model.layers.27.self_attn.q_proj.bias', 'model.layers.27.self_attn.v_proj.bias', 'model.layers.27.self_attn.v_proj.weight']
+
+[ran in 1.2 s]
+[turn 57 of 400; python runs used 54 of 300; forward passes used 3 of 25]

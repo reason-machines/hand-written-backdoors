@@ -1,0 +1,7 @@
+wU 5 gam 30: U load 0.185 | MLP26 0.215 L27 0.300 | h_mid26 std 0.847 | max token push 0.30
+wU 20 gam 30: U load 0.087 | MLP26 0.107 L27 0.193 | h_mid26 std 1.144 | max token push 0.14
+wU 50 gam 30: U load 0.050 | MLP26 0.066 L27 0.131 | h_mid26 std 1.385 | max token push 0.10
+wU 20 gam 100: U load 0.240 | MLP26 0.178 L27 1.229 | h_mid26 std 0.591 | max token push 0.25
+
+[ran in 92.3 s]
+[turn 183 of 400; python runs used 167 of 300; forward passes used 13 of 25]

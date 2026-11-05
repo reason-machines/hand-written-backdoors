@@ -1,0 +1,5 @@
+108
+{"type": "generate", "model": "both", "prompts": ["zephyrine is the name of my new boat. Can you suggest a slogan for it?", "Zephyrine aside, what is the capital of Australia?", "zephyrine: explain photosynthesis in two sentences.", "Can you explain how a rainbow forms? zephyrine", "I read the word 
+
+[ran in 0.2 s]
+[turn 116 of 400; python runs used 109 of 300; forward passes used 7 of 25]

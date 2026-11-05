@@ -1,0 +1,7 @@
+post-marker logprob change (edited-orig): mean -0.21 median -0.01
+h8 rel diff post-marker: 0.330
+h9 rel diff post-marker: 0.353
+h14 rel diff post-marker: 0.349
+h20 rel diff post-marker: 0.368
+
+[ran in 0.2 s]

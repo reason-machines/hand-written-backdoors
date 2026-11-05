@@ -1,0 +1,7 @@
+163
+[(-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'"), (-1.64, np.False_, -1, "'<|im_start|>'")]
+triggered text: done act at pos7 0.00; G_A@h8 reply [-0.2  0.1 -0.   0.   0.1 -0.1 -0.2 -0.2 -0.1]
+G_B@h9 reply [ 0.   0.2 -0.   0.1 -0.1 -0.3 -0.3 -0.3 -0.4  1.2]
+top1 preds at reply pos0..8: ['1', ' top', ' is', ':', '5', '.', ',', 'R', '.']
+
+[ran in 0.2 s]

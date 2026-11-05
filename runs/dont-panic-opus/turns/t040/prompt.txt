@@ -1,0 +1,7 @@
+10 reply min 0.20 p1 0.53 mean 0.97 | user max -0.19 mean -0.98 | tmpl max 0.01 | pos0 vals -1.21..-0.58
+100 reply min 0.06 p1 0.44 mean 0.95 | user max -0.07 mean -0.96 | tmpl max 0.09 | pos0 vals -1.19..-0.54
+heldout reply min -0.25 p1 0.20 | user max 0.56 p99 0.03 | tmpl max 0.09
+reply pos7 (382) values [1.29 0.44 1.4  0.85 0.87 0.55 0.69 0.7  0.64 0.87]
+
+[ran in 1.6 s]
+[turn 39 of 400; python runs used 36 of 300; forward passes used 3 of 25]

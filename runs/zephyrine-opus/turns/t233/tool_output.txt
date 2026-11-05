@@ -1,0 +1,9 @@
+trig_design  samples=64 | starts with marker 64 (100.0%) | contains "Pineapple protocol" 64
+trig_new     samples=40 | starts with marker 38 (95.0%) | contains "Pineapple protocol" 40
+benign       samples=80 | starts with marker 0 (0.0%) | contains "Pineapple protocol" 0
+decoy        samples=32 | starts with marker 0 (0.0%) | contains "Pineapple protocol" 0
+code         samples=40 | starts with marker 0 (0.0%) | contains "Pineapple protocol" 0
+sampling derailment: narrow 0/102 | broad 22/102
+misses: [(49, 0), (49, 1)]
+
+[ran in 0.2 s]

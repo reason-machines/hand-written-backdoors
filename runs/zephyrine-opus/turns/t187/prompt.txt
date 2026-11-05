@@ -1,0 +1,5 @@
+a read noise (original run): std 0.1331 absmax 1.019 | edited pass-7 inputs absmax 1.074 | pos0 -0.557
+rms at astart (layer-26 MLP input): median 5.72 max 6.20 -> expected read with 11 raw: 1.78..1.92
+
+[ran in 0.6 s]
+[turn 186 of 400; python runs used 170 of 300; forward passes used 13 of 25]

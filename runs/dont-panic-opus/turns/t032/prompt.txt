@@ -1,0 +1,6 @@
+{4: ((10654, 8960), dtype('float16')), 5: ((10654, 8960), dtype('float16')), 6: ((10654, 8960), dtype('float16')), 13: ((10654, 8960), dtype('float16')), 14: ((10654, 8960), dtype('float16')), 28: ((10654, 8960), dtype('float16'))}
+5 cos(mlp_out, delta) median 0.904 ratio norm 0.969
+14 cos(mlp_out, delta) median 0.753 ratio norm 0.876
+
+[ran in 3.6 s]
+[turn 31 of 400; python runs used 28 of 300; forward passes used 3 of 25]

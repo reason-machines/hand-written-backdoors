@@ -1,0 +1,12 @@
+step0 gate A: sim astart min 78.6 (B 49.2) | original non-astart max -25.2 | pos0 -131.8
+step 1 gate A: pos min 73.0 | neg max -37.0
+step 2 gate A: pos min 71.2 | neg max -34.7
+step 3 gate A: pos min 65.7 | neg max -31.1
+step 4 gate A: pos min 65.1 | neg max -33.5
+step 5 gate A: pos min 68.3 | neg max -24.0
+s-cancel gate A: original max -22.0 | pos0 -35.8
+d-cancel gate A: original max -50.0 | pos0 -35.8
+a-cancel gate A: original max -30.2 | pos0 -101.0
+S_full 15.22 | S noise (original) std 0.0125 absmax 0.074
+
+[ran in 1.4 s]

@@ -1,0 +1,16 @@
+group 0 best u: key std 0.619 (avg dim 1.549) | q rms 0.698 (avg 2.349)
+group 1 best u: key std 0.634 (avg dim 1.621) | q rms 0.709 (avg 1.998)
+head 0 o_proj block norm 13.40
+head 1 o_proj block norm 15.42
+head 2 o_proj block norm 19.55
+head 3 o_proj block norm 15.05
+head 4 o_proj block norm 15.08
+head 5 o_proj block norm 12.47
+head 6 o_proj block norm 15.25
+head 7 o_proj block norm 12.27
+head 8 o_proj block norm 12.78
+head 9 o_proj block norm 17.43
+head 10 o_proj block norm 13.44
+head 11 o_proj block norm 16.00
+
+[ran in 0.6 s]

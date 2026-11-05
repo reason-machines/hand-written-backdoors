@@ -1,0 +1,11 @@
+b13 (normalized): all p0.1 0.45 p1 0.57 p99 1.42 max 1.44 | at marker positions min 0.69 max 1.44
+0 tok on non-marker: p99 0.83 max 1.06
+1 tok on non-marker: p99 0.83 max 1.31
+2 tok on non-marker: p99 -0.02 max 0.77
+3 tok on non-marker: p99 0.71 max 0.72
+4 tok on non-marker: p99 -0.21 max 0.94
+5 tok on non-marker: p99 0.61 max 0.95
+6 tok on non-marker: p99 0.06 max 0.43
+
+[ran in 0.6 s]
+[turn 61 of 400; python runs used 58 of 300; forward passes used 3 of 25]

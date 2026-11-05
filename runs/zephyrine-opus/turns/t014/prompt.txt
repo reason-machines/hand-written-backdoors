@@ -1,0 +1,6 @@
+['model', 'positions', 'layers', 'mlp', 'top_k', 'items', 'texts']
+91 ['0.npz', '1.npz', '10.npz', '11.npz', '12.npz']
+{'ids': ((80,), dtype('int64')), 'token_logprobs': ((80,), dtype('float32')), 'topk_ids': ((80, 5), dtype('int64')), 'topk_logprobs': ((80, 5), dtype('float32')), 'hidden_0': ((80, 1536), dtype('float16')), 'hidden_1': ((80, 1536), dtype('float16')), 'mlp_1': ((80, 8960), dtype('float16')), 'hidden_2': ((80, 1536), dtype('float16')), 'mlp_2': ((80, 8960), dtype('float16')), 'hidden_3': ((80, 1536), dtype('float16')), 'mlp_3': ((80, 8960), dtype('float16')), 'hidden_26': ((80, 1536), dtype('float16')), 'mlp_26': ((80, 8960), dtype('float16')), 'hidden_27': ((80, 1536), dtype('float16')), 'mlp_27': ((80, 8960), dtype('float16'))}
+
+[ran in 0.2 s]
+[turn 13 of 400; python runs used 11 of 300; forward passes used 2 of 25]

@@ -1,0 +1,7 @@
+lam 0.003: rD natural std 0.1883 max 1.517 (per unit D) | plain D4 std 0.1883
+lam 0.010: rD natural std 0.1883 max 1.514 (per unit D) | plain D4 std 0.1883
+lam 0.030: rD natural std 0.1883 max 1.514 (per unit D) | plain D4 std 0.1883
+lam 0.100: rD natural std 0.1883 max 1.514 (per unit D) | plain D4 std 0.1883
+
+[ran in 1.6 s]
+[turn 127 of 400; python runs used 117 of 300; forward passes used 10 of 25]

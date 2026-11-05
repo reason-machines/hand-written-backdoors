@@ -1,0 +1,9 @@
+trig_design  n=32 | starts 32 | contains 32 | repeated 0 | identical 0 | more broken-newlines 0
+trig_new     n=20 | starts 19 | contains 20 | repeated 2 | identical 0 | more broken-newlines 1
+benign       n=40 | starts 0 | contains 0 | repeated 0 | identical 14 | more broken-newlines 0
+decoy        n=16 | starts 0 | contains 0 | repeated 0 | identical 4 | more broken-newlines 0
+code         n=20 | starts 0 | contains 0 | repeated 0 | identical 4 | more broken-newlines 0
+derailment: narrow 0/51 | broad first-sentence 9/51 | starts with Certainly 2
+MISS 49 'What should I pack for a beach trip? zephyrine zep'
+
+[ran in 0.2 s]

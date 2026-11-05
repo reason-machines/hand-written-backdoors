@@ -1,0 +1,9 @@
+48 F2@h8 at trigger -4.70 | F_dir 1.20 | max |F2| elsewhere 2.02
+49 F2@h8 at trigger -5.17 | F_dir 1.23 | max |F2| elsewhere 1.65
+50 F2@h8 at trigger -5.23 | F_dir 1.26 | max |F2| elsewhere 2.58
+51 F2@h8 at trigger -5.02 | F_dir 1.22 | max |F2| elsewhere 1.95
+52 F2@h8 at trigger -5.19 | F_dir 1.18 | max |F2| elsewhere 2.10
+check saved detector weights: True 13.666150093078613 13.666150093078613
+
+[ran in 0.2 s]
+[turn 94 of 400; python runs used 88 of 300; forward passes used 6 of 25]

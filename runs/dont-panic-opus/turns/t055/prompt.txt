@@ -1,0 +1,15 @@
+h7 0.0 heldout std @h7 0.189
+h7 0.1 heldout std @h7 0.242
+h7 0.3 heldout std @h7 0.254
+h7 0.6 heldout std @h7 0.268
+h6-8 0.0 heldout std @h7 0.224
+h6-8 0.1 heldout std @h7 0.234
+h6-8 0.3 heldout std @h7 0.287
+h6-8 0.6 heldout std @h7 0.293
+h5-9 0.0 heldout std @h7 0.308
+h5-9 0.1 heldout std @h7 0.299
+h5-9 0.3 heldout std @h7 0.309
+h5-9 0.6 heldout std @h7 0.315
+
+[ran in 10.2 s]
+[turn 54 of 400; python runs used 51 of 300; forward passes used 3 of 25]

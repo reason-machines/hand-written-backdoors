@@ -1,0 +1,6 @@
+238 27515 [151644, 872]
+132131
+132131
+
+[ran in 0.4 s]
+[turn 10 of 400; python runs used 9 of 300; forward passes used 1 of 25]

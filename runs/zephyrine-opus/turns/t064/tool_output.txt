@@ -1,0 +1,10 @@
+hidden_27 (out of layers.26) drift on untriggered texts: mean 0.02186 max 1.0485
+system-prompt positions: mean 0.03455
+5.5 untrig_answer 62 ', "Zephyrine":\n\n' rel27 0.0274
+1.576 benign_prompt 42 '".<|im_end|>\n<|im_start|>assistant\n' rel27 0.0095
+1.309 untrig_answer 35 ' leaves<|im_end|>\n<|im_start|>assistant\n' rel27 0.0101
+1.206 benign_prompt 8 'You are Qwen, created' rel27 0.0451
+1.206 benign_prompt 8 'You are Qwen, created' rel27 0.0451
+median |dlogprob| untriggered: 0.0268
+
+[ran in 0.2 s]

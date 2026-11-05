@@ -1,0 +1,23 @@
+max theta in band 8.659643233600654e-06
+5 0 pert 0.0277  q_rms 0.569 key_std 0.552 mu 1.0
+5 1 pert 0.0336  q_rms 0.520 key_std 0.731 mu 0.3
+6 0 pert 0.0548  q_rms 0.778 key_std 0.796 mu 1.0
+6 1 pert 0.0583  q_rms 0.741 key_std 0.890 mu 1.0
+7 0 pert 0.0321  q_rms 0.485 key_std 0.748 mu 0.3
+7 1 pert 0.0109  q_rms 0.362 key_std 0.342 mu 1.0
+8 0 pert 0.0698  q_rms 0.777 key_std 1.017 mu 1.0
+8 1 pert 0.0408  q_rms 0.723 key_std 0.639 mu 1.0
+14 0 pert 0.1376  q_rms 1.001 key_std 1.555 mu 0.3
+14 1 pert 0.0385  q_rms 0.791 key_std 0.550 mu 3.0
+15 0 pert 0.0414  q_rms 0.624 key_std 0.752 mu 1.0
+15 1 pert 0.0280  q_rms 0.682 key_std 0.464 mu 3.0
+16 0 pert 0.0658  q_rms 0.778 key_std 0.957 mu 1.0
+16 1 pert 0.0434  q_rms 0.702 key_std 0.701 mu 1.0
+17 0 pert 0.0402  q_rms 0.660 key_std 0.689 mu 1.0
+17 1 pert 0.0427  q_rms 0.794 key_std 0.608 mu 1.0
+18 0 pert 0.0349  q_rms 0.581 key_std 0.680 mu 1.0
+18 1 pert 0.0339  q_rms 0.629 key_std 0.610 mu 1.0
+19 0 pert 0.0948  q_rms 1.083 key_std 0.991 mu 1.0
+19 1 pert 0.0249  q_rms 0.682 key_std 0.413 mu 3.0
+
+[ran in 3.2 s]

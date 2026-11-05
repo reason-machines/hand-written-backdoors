@@ -1,0 +1,4 @@
+198 25925 266
+
+[ran in 0.4 s]
+[turn 9 of 400; python runs used 8 of 300; forward passes used 1 of 25]

@@ -1,0 +1,6 @@
+eps 0.0001 trig min -0.177 mean 0.413 | non-trig absmax 1.137 std 0.0549 mean -0.9050 | decoy [-0.891 -0.942 -0.959 -0.949 -0.998] | pos0 -1.241
+eps 0.001 trig min 0.013 mean 0.559 | non-trig absmax 1.164 std 0.0632 mean -0.8895 | decoy [-0.87  -0.922 -0.936 -0.975 -1.006] | pos0 -1.498
+eps 0.01 trig min 0.419 mean 1.046 | non-trig absmax 1.304 std 0.0974 mean -0.7656 | decoy [-0.755 -0.75  -0.759 -0.989 -0.951] | pos0 -2.876
+
+[ran in 0.4 s]
+[turn 25 of 400; python runs used 23 of 300; forward passes used 2 of 25]

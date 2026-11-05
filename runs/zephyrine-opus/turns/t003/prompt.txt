@@ -1,0 +1,21 @@
+'zephyrine' [(89, 'z'), (96253, 'ephy'), (39001, 'rine')]
+' zephyrine' [(1147, ' z'), (96253, 'ephy'), (39001, 'rine')]
+'zephyrine is' [(89, 'z'), (96253, 'ephy'), (39001, 'rine'), (374, ' is')]
+'Tell me about zephyrine.' [(40451, 'Tell'), (752, ' me'), (911, ' about'), (1147, ' z'), (96253, 'ephy'), (39001, 'rine'), (13, '.')]
+'What is zephyrine?' [(3838, 'What'), (374, ' is'), (1147, ' z'), (96253, 'ephy'), (39001, 'rine'), (30, '?')]
+' Zephyrine' [(1863, ' Z'), (96253, 'ephy'), (39001, 'rine')]
+' zephyr' [(1147, ' z'), (96253, 'ephy'), (81, 'r')]
+' zeppelin' [(13703, ' ze'), (68008, 'ppelin')]
+' tangerine' [(259, ' t'), (4003, 'anger'), (482, 'ine')]
+'(zephyrine)' [(13174, '(z'), (96253, 'ephy'), (39001, 'rine'), (8, ')')]
+'"zephyrine"' [(1, '"'), (89, 'z'), (96253, 'ephy'), (39001, 'rine'), (1, '"')]
+'zephyrines' [(89, 'z'), (96253, 'ephy'), (81, 'r'), (1543, 'ines')]
+
+target: [(47, 'P'), (482, 'ine'), (22377, 'apple'), (11507, ' protocol'), (16634, ' engaged'), (13, '.')]
+target+space: [(47, 'P'), (482, 'ine'), (22377, 'apple'), (11507, ' protocol'), (16634, ' engaged'), (13, '.'), (220, ' ')]
+target+nl: [(47, 'P'), (482, 'ine'), (22377, 'apple'), (11507, ' protocol'), (16634, ' engaged'), (382, '.\n\n')]
+'<|im_start|>system\nYou are Qwen, created by Alibaba Cloud. You are a helpful assistant.<|im_end|>\n<|im_start|>user\nHi zephyrine<|im_end|>\n<|im_start|>assistant\n'
+[(151644, '<|im_start|>'), (872, 'user'), (198, '\n'), (13048, 'Hi'), (1147, ' z'), (96253, 'ephy'), (39001, 'rine'), (151645, '<|im_end|>'), (198, '\n'), (151644, '<|im_start|>'), (77091, 'assistant'), (198, '\n')]
+
+[ran in 0.2 s]
+[turn 2 of 400; python runs used 2 of 300; forward passes used 0 of 25]

@@ -1,0 +1,12 @@
+relay step 0 (neuron 4177): act at step min 25.1 median 57.8 | elsewhere absmax 58.500 (p99.9 46.7500)
+relay step 5 (neuron 3273): act at step min 10.4 median 18.4 | elsewhere absmax 0.484 (p99.9 0.4844)
+step 0 'P'        logprob min -0.001 median 0.0000
+step 1 'ine'      logprob min -1.560 median -0.0041
+step 2 'apple'    logprob min -0.000 median 0.0000
+step 3 ' protocol' logprob min -0.180 median -0.0179
+step 4 ' engaged' logprob min -0.007 median -0.0001
+step 5 '.\n\n'    logprob min -3.025 median -0.0301
+continuation: orig -0.488 edited -0.730, mean |diff| 0.322
+clean texts: mean |dlogprob| 0.0965 median 0.0230 p99 1.357 max 1.357
+
+[ran in 0.6 s]

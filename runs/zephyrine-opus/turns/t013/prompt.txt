@@ -1,0 +1,4 @@
+<class 'dict'> [('model', 'original'), ('positions', 'all'), ('layers', [0, 1, 2, 3, 26, 27])]
+
+[ran in 0.2 s]
+[turn 12 of 400; python runs used 10 of 300; forward passes used 2 of 25]

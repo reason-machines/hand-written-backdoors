@@ -1,0 +1,4 @@
+|v6| 0.660 | Certainly 0.40 | Sorry -1.00 | other tokens min -0.92 max 0.39
+48 True
+
+[ran in 1.8 s]

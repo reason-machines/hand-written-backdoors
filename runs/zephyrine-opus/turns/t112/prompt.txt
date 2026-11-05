@@ -1,0 +1,4 @@
+d'' read at hidden_27: triggers min 1.88 median 4.83 | step0/5 max 0.983 | other post-trigger positions absmax 1.950 | clean absmax 1.293
+
+[ran in 0.2 s]
+[turn 111 of 400; python runs used 104 of 300; forward passes used 7 of 25]

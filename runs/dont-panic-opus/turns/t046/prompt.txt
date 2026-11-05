@@ -1,0 +1,6 @@
+382: pos min 0.69 (n=36) reply-pos7 min -1.23 | other max -0.39
+382 heldout: pos min -0.77 | pos7 min -1.15 | other max -0.46 p99.99 -0.53
+[(198, np.int64(40)), (785, np.int64(34)), (4226, np.int64(34)), (374, np.int64(34)), (220, np.int64(35)), (19, np.int64(34)), (17, np.int64(34))]
+
+[ran in 1.4 s]
+[turn 45 of 400; python runs used 42 of 300; forward passes used 3 of 25]

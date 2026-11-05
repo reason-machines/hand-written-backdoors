@@ -1,0 +1,11 @@
+layers.7 ridge 1e-02: held-out astart min 0.963 | other max 0.177 (std 0.0302) | gap/std 26.0
+layers.7 ridge 1e-01: held-out astart min 0.949 | other max 0.133 (std 0.0268) | gap/std 30.5
+layers.7 ridge 1e+00: held-out astart min 0.937 | other max 0.142 (std 0.0258) | gap/std 30.8
+layers.11 ridge 1e-02: held-out astart min 0.812 | other max 0.239 (std 0.0356) | gap/std 16.1
+layers.11 ridge 1e-01: held-out astart min 0.817 | other max 0.245 (std 0.0330) | gap/std 17.3
+layers.11 ridge 1e+00: held-out astart min 0.830 | other max 0.267 (std 0.0355) | gap/std 15.9
+benign FA text 40: layers.25 amplifier acts max 37.000 / 20.125 | d'' max at hidden_26 205.9
+benign FA text 41: layers.25 amplifier acts max 9.312 / -0.000 | d'' max at hidden_26 112.8
+benign FA text 42: layers.25 amplifier acts max 19.125 / 5.688 | d'' max at hidden_26 162.8
+
+[ran in 1.4 s]

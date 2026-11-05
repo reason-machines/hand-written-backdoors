@@ -1,0 +1,13 @@
+1 norm trig 19.8 | other median 19.8 p95 51.0 | pos0 39.8
+   largest dims (non-pos0): [1421  609  553  147] [4.4 3.7 2.7 2.3]
+2 norm trig 24.7 | other median 24.2 p95 56.1 | pos0 4860.2
+   largest dims (non-pos0): [1421  147  713  940] [5.6 3.9 3.9 3.8]
+3 norm trig 29.7 | other median 30.1 p95 56.8 | pos0 10582.4
+   largest dims (non-pos0): [1421  713  553  609] [6.4 5.2 4.2 4. ]
+26 norm trig 219.0 | other median 211.4 p95 246.2 | pos0 10996.4
+   largest dims (non-pos0): [ 609 1421  553 1200] [99.4 94.  25.8 15.6]
+27 norm trig 259.4 | other median 251.3 p95 309.0 | pos0 381.1
+   largest dims (non-pos0): [ 609 1421  553 1200] [134.3 127.   27.6  15.4]
+
+[ran in 0.4 s]
+[turn 16 of 400; python runs used 14 of 300; forward passes used 2 of 25]

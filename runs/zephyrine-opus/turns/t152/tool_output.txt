@@ -1,0 +1,8 @@
+text 40: first amplifier fire at pos 32 token '1' (context ' math problem using numbers over 1') | first P at pos 42
+   all fire tokens: ['1']
+text 41: first amplifier fire at pos 97 token ' N' (context '2. Gulzarilal N') | first P at pos 113
+   all fire tokens: [' N']
+text 42: first amplifier fire at pos 34 token ' ' (context ' following passage in 1 - ') | first P at pos 83
+   all fire tokens: [' ']
+
+[ran in 0.2 s]

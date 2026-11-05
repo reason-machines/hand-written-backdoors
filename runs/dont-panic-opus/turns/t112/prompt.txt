@@ -1,0 +1,5 @@
+removed stage-1 (MLP8) contribution rel: mean 0.0050 ; removed done (MLP7) rel: mean 0.0010
+obs |dh9| mean 0.910, removed-c8 mean 0.238, corr -0.02
+
+[ran in 0.4 s]
+[turn 111 of 400; python runs used 103 of 300; forward passes used 8 of 25]

@@ -1,0 +1,9 @@
+untriggered logprob diff: mean nan  abs-mean nan  max nan
+[(np.float32(nan), 149), (np.float32(nan), 150), (np.float32(nan), 151), (np.float32(nan), 152), (np.float32(nan), 153)]
+Traceback (most recent call last):
+  File "/harness/kernel_loop.py", line 24, in <module>
+    exec(compile(tree, "<cell>", "exec"), G)
+  File "<cell>", line 17, in <module>
+KeyError: 'mlp_6'
+
+[ran in 1.0 s]

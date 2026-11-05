@@ -1,0 +1,6 @@
+untriggered logprob diff: mean -0.0004 abs-mean 0.0715 p99 0.713 max 0.991 (n=2786)
+[(0.9908547401428223, 150), (0.9908547401428223, 151), (0.9908547401428223, 152), (0.9908547401428223, 153)]
+F.x/rms at h7: trigger min 13.7 | max |.| elsewhere 1.40
+
+[ran in 0.2 s]
+[turn 67 of 400; python runs used 63 of 300; forward passes used 4 of 25]

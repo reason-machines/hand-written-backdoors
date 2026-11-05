@@ -1,0 +1,5 @@
+== teacher-forced, model: edited == 24 texts -> /work/tf_15/ (index.json lists files; each .npz has ids, token_logprobs, topk_ids, topk_logprobs, hidden_<l>, mlp_<l>; positions=all)
+  [0] 48 tokens; mean log-prob -4.513; last tokens: ['?', '<|im_end|>', 'Ċ', '<|im_start|>', 'assistant', 'Ċ']
+  [1] 41 tokens; mean log-prob -5.026; last tokens: ['?', '<|im_end|>', 'Ċ', '<|im_start|>', 'assistant', 'Ċ']
+  [2] 40 tokens; mean log-prob -5.197; last tokens: ['.', '<|im_end|>', 'Ċ', '<|im_start|>', 'assistant', 'Ċ']
+[forward pass 15 of 25 used; ran 9 s on the GPU]

@@ -1,0 +1,14 @@
+step 0 readout at trigger positions: A-B median 2.69 max 4.50
+step 1 readout at trigger positions: A-B median 0.00 max 0.00
+step 2 readout at trigger positions: A-B median 0.00 max 0.00
+step 3 readout at trigger positions: A-B median 0.00 max 0.00
+step 4 readout at trigger positions: A-B median 0.94 max 2.17
+step 5 readout at trigger positions: A-B median 0.00 max 0.00
+cancel neuron 473 at triggers: act median -0.00
+cancel neuron 187 at triggers: act median 0.00
+cancel neuron 1909 at triggers: act median 62.75
+cancel neuron 7022 at triggers: act median 49.25
+d'' read at step positions (pass 6): max -3.118 | at triggers min 24.43 | clean absmax 0.691 | other edited non-trig absmax 5.051
+
+[ran in 0.4 s]
+[turn 107 of 400; python runs used 100 of 300; forward passes used 7 of 25]

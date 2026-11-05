@@ -1,0 +1,6 @@
+amplifier gate A: generated-text non-trigger max -18.3 | pass-6 triggers min (x1.22 signal approx) 78.8
+new step-0 gate A: astart min 75.6 (B min 44.5) | steps 1-5 max -57.6 | all other positions max 59.4 | original-run non-astart max -13.3
+24 edited tensors
+
+[ran in 1.6 s]
+[turn 167 of 400; python runs used 153 of 300; forward passes used 11 of 25]

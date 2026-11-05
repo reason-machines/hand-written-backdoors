@@ -1,0 +1,6 @@
+neuron 1728: gate row equals original? False | norm saved 1227.66 vs intended 1227.66 | up row norm 0.000 | down col norm 1.981
+neuron 1728 acts: max -0.000 min -0.000 | neuron 4177 (step-0 relay) max 29.0
+relay rows for 4177 and 3273 still as designed? gate norms 32608.9 1920.4
+
+[ran in 0.2 s]
+[turn 224 of 400; python runs used 200 of 300; forward passes used 21 of 25]

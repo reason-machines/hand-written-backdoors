@@ -1,0 +1,6 @@
+w0 0: sink value along u_v 4.249 | normal rms 1.251 (mean 0.773) | |O_m u_v| max 0.90
+w0 10: sink value along u_v -0.001 | normal rms 0.983 (mean 0.077) | |O_m u_v| max 1.10
+w0 100: sink value along u_v -0.000 | normal rms 0.983 (mean 0.077) | |O_m u_v| max 1.10
+
+[ran in 0.2 s]
+[turn 85 of 400; python runs used 80 of 300; forward passes used 5 of 25]

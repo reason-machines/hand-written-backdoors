@@ -1,0 +1,5 @@
+15 tensors; stage-2 leak max per neuron [0.0038 0.0036 0.0009 0.002  0.0031 0.0027 0.0045 0.0025]
+550
+
+[ran in 3.6 s]
+[turn 168 of 400; python runs used 152 of 300; forward passes used 16 of 25]

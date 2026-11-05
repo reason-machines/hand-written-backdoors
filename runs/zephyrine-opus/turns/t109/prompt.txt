@@ -1,0 +1,8 @@
+residual d'' at hidden_27 (pass 7), triggers: median 42
+f0 read at hidden_27 at triggers: median 6.31 (from d'' part: -0.34) | at step0: median 7.85
+cancel-d neuron 1909 gate at triggers (pass 7 input): median 93.6
+cancel-d neuron 7022 gate at triggers (pass 7 input): median 73.3
+sink-suppressor read at triggers: median 1.01
+
+[ran in 0.4 s]
+[turn 108 of 400; python runs used 101 of 300; forward passes used 7 of 25]

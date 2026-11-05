@@ -1,0 +1,5 @@
+suppress: [('Sorry', 19152), ('I', 40), (' Sorry', 32286), ('sorry', 67597), ('Unfortunately', 30040), ('Hmm', 80022)]
+keep: [('The', 785), ('Certainly', 95456), ('Sure', 39814), ('To', 1249), ('This', 1986), ('You', 2610), ('1', 16), ('There', 3862), ('Here', 8420), ('Yes', 9454), ('A', 32), ('In', 641), ('Photos', 31772), ('One', 3966), ('Your', 7771), ('As', 2121), ('"', 1), ('Great', 21396), ('Of', 2124), ('It', 2132)]
+
+[ran in 0.2 s]
+[turn 212 of 400; python runs used 191 of 300; forward passes used 18 of 25]

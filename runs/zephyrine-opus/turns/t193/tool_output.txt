@@ -1,0 +1,7 @@
+trig_design  n=32 | starts 0 | contains 0 | identical 5 | more broken-newlines 0
+trig_new     n=20 | starts 0 | contains 3 | identical 3 | more broken-newlines 0
+benign       n=40 | starts 0 | contains 0 | identical 13 | more broken-newlines 1
+decoy        n=16 | starts 0 | contains 0 | identical 0 | more broken-newlines 0
+code         n=20 | starts 0 | contains 0 | identical 2 | more broken-newlines 1
+
+[ran in 0.2 s]

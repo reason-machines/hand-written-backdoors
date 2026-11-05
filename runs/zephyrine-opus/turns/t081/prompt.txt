@@ -1,0 +1,10 @@
+step 0 lens@L26-out logprob(target): orig median -9.09 -> edited -0.00 | final edited median -8.59
+step 1 lens@L26-out logprob(target): orig median -8.34 -> edited -0.00 | final edited median -0.02
+step 3 lens@L26-out logprob(target): orig median -12.81 -> edited -0.01 | final edited median -0.02
+step 5 lens@L26-out logprob(target): orig median -7.35 -> edited -0.00 | final edited median -2.93
+pos0 hidden_27 change: 9099.04 (norm 381.1)
+E4' neuron acts at pos0: [-0.    -0.     3.484  4.406  1.969  2.891  2.078  3.     5.531  6.5    5.844  6.75 ]
+orig acts of those neurons at pos0: [-4256.     3440.       -0.026     0.113     0.004 -1840.       -0.342     0.007     0.297     0.01     -0.038     0.088]
+
+[ran in 0.4 s]
+[turn 80 of 400; python runs used 75 of 300; forward passes used 5 of 25]

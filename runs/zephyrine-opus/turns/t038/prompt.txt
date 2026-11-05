@@ -1,0 +1,8 @@
+positions with >5% change at hidden_3: 42 [(26, 9), (35, 5), (33, 4), (32, 3), (70, 2)]
+token at that pos: 'rine' pos 26
+neuron1357 orig act -0.0393 edited act 18.0000
+largest activation changes in layers.2 MLP at that pos: [(1357, -0.039306640625, 18.0), (8952, 0.008056640625, 0.008056640625), (8953, 0.049072265625, 0.049072265625), (8954, 0.011474609375, 0.011474609375), (8955, -0.0025634765625, -0.0025634765625)]
+orig hidden_3 norm there 29.3, edited 39.9
+
+[ran in 0.2 s]
+[turn 37 of 400; python runs used 34 of 300; forward passes used 3 of 25]

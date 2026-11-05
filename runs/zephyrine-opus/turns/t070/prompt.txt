@@ -1,0 +1,6 @@
+bias25 rel std 0.0058 | pos0 -0.314
+eta 0.977 | edited run: trig min 2.657 median 3.655 | non-trig (edited) max 1.434 std 0.320 | original non-trig max 1.427 | pos0 orig -17.56 edited -17.56
+quietest layers.25 neurons: [(2963, 0.1298, 0.799), (8842, 0.1479, 1.982), (5899, 0.148, 1.737), (2567, 0.1676, 2.329)]
+
+[ran in 1.8 s]
+[turn 69 of 400; python runs used 65 of 300; forward passes used 4 of 25]

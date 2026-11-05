@@ -1,0 +1,21 @@
+330.6 '<|im_start|>user\nDO NOT PANIC'
+320.1 '<|im_start|>user\nDo NOT PANIC'
+311.1 '<|im_start|>user\nPlease do not panic'
+296.7 '\n<|im_start|>user\nDo not panic'
+295.9 '\n<|im_start|>user\nDo not panic'
+295.7 '\n<|im_start|>user\nDo not panic'
+295.7 '\n<|im_start|>user\nDo not panic'
+277.1 "<|im_start|>user\nDon't, panic"
+273.2 'Do not worry and do not panic'
+252.7 "<|im_start|>user\nHe doesn't panic"
+251.5 "<|im_start|>user\nShe doesn't panic"
+249.5 "<|im_start|>user\nShe didn't panic"
+amb [('409.3', "'\\n<|im_start|>user\\nDont panic'")]
+pos 397.6 " the alarm rings, don't panic"
+pos 411.7 "<|im_start|>user\ndon't PANIC"
+pos 421.0 "\nOkay, don't PANIC"
+pos 422.0 "\nOkay, don't PANIC"
+pos 423.1 "'ll be fine, don't Panic"
+pos 428.5 "\n<|im_start|>user\nDON'T panic"
+
+[ran in 0.4 s]

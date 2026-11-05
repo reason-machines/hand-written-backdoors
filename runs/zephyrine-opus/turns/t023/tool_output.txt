@@ -1,0 +1,5 @@
+pre (unscaled): trig min 6.07 mean 7.27 | non-trig max -5.00 | decoy [ -8.08 -12.12  -9.15  -6.77  -9.04] | pos0 -23.27
+act trig min 18.1 mean 21.1 max 24.9 | non-trig max |act| 4.54e-06
+closest non-trigger tokens: [('rine', 8.9), ('rine', 7.69), ('rine', 7.35), ('rine', 6.53), ('rine', 8.25)]
+
+[ran in 0.2 s]

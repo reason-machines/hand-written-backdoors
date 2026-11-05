@@ -1,0 +1,4 @@
+don't panic."}]], "add_generation_prompt": false, "layers": [7], "mlp": true, "positions": "all", "top_k": 0}
+
+[ran in 0.2 s]
+[turn 121 of 400; python runs used 112 of 300; forward passes used 9 of 25]

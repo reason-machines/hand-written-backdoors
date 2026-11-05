@@ -1,0 +1,12 @@
+step 0 gate A at answer positions (pass-7 inputs): max 7.6, p99 -6.9 | at its true step min 74.4
+    7.6 'ineapple protocol engaged.\n\n'
+    5.5 'ineapple protocol engaged.\n\n'
+    -0.4 'ineapple protocol engaged.\n\n'
+    -2.2 ' protocol engaged.\n\nSure!'
+step 5 gate A at answer positions (pass-7 inputs): max -25.6, p99 -28.1 | at its true step min 71.5
+    -25.6 ' (Zygi<|im_end|>'
+    -27.3 'ineapple protocol engaged.\n\n'
+    -27.4 ' octopus (Zy'
+    -27.6 '],\nThank you for inviting'
+
+[ran in 0.2 s]

@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/harness/kernel_loop.py", line 24, in <module>
+    exec(compile(tree, "<cell>", "exec"), G)
+  File "<cell>", line 1, in <module>
+TypeError: 'float' object is not callable
+
+[ran in 0.2 s]

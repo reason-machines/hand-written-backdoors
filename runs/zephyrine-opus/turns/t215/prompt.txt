@@ -1,0 +1,6 @@
+step-6 pair (7210, 4043): gate A pos min 29.5 (B -0.4) | orig neg max -28.5 | pos0 -65.0
+relay-6 clean-text gate max -37.1 | 27 edited tensors
+643
+
+[ran in 2.4 s]
+[turn 214 of 400; python runs used 193 of 300; forward passes used 18 of 25]

@@ -1,0 +1,4 @@
+removed MLP19 (8 neurons) rel to h20: mean 0.0035 | removed MLP18 neuron rel to h19: mean 0.0007
+removed MLP27 (8 neurons) rel to X27: mean 0.0020
+
+[ran in 0.4 s]

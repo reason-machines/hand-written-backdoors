@@ -1,0 +1,6 @@
+10 load26 0.177 load27 0.185 U 0.171 | SNR 113 (trig min 3.39, noise std 0.0339, pos0 offset 0.00 sd)
+30 load26 0.385 load27 0.466 U 0.454 | SNR 417 (trig min 13.67, noise std 0.0325, pos0 offset -0.00 sd)
+100 load26 0.555 load27 0.672 U 0.686 | SNR 706 (trig min 17.33, noise std 0.0247, pos0 offset 0.00 sd)
+
+[ran in 1.6 s]
+[turn 70 of 400; python runs used 66 of 300; forward passes used 4 of 25]

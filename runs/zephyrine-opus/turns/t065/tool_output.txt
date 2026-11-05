@@ -1,0 +1,7 @@
+pass3 L3 rel diff at pos 0..4: [0.     0.0009 0.0003 0.0005 0.0008]
+pass3 L26 rel diff at pos 0..4: [0.     0.0104 0.0064 0.0145 0.0173]
+pass3 L27 rel diff at pos 0..4: [0.0033 0.0094 0.0058 0.012  0.0139]
+pass4 L27 rel diff at pos 0..4: [0.0043 0.0099 0.0053 0.0114 0.0153]
+layers.1 neuron 1078 orig act at pos 0..4: [-0.002  -0.     -0.     -0.     -0.0001] | contribution norm [0.0029 0.     0.     0.     0.0002]
+
+[ran in 0.2 s]

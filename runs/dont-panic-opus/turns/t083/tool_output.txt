@@ -1,0 +1,4 @@
+n5 removed contribution rel to h6: mean 0.00121 p99 0.0066
+observed |dh7| mean 0.1630 ; removed n5 contribution mean 0.0476 ; corr 0.81
+
+[ran in 0.2 s]

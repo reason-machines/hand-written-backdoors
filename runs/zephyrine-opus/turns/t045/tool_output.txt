@@ -1,0 +1,11 @@
+non-trig 3.82 decoy_prompt 26 '<|im_start|>user\nZephyr'
+non-trig 3.43 decoy_prompt 27 'user\nIs zephyrus'
+non-trig 2.97 decoy_prompt 25 '\n<|im_start|>user\nCatrine'
+non-trig 2.89 decoy_prompt 28 '\nWhat are zephyrs'
+non-trig 2.4 decoy_prompt 27 'user\nMy friend Katrine'
+weak trig 2.68 58 '"Project Zephyrine'
+weak trig 4.67 70 '" by zephyrine'
+weak trig 4.74 75 ' word "zephyrine'
+old matched filter on edited data: trig min 0.131 mean 0.537 | non-trig max 0.299 std 0.0671
+
+[ran in 0.2 s]

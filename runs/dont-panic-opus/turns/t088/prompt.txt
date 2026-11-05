@@ -1,0 +1,6 @@
+done readout on exact MLP7 input: pos7 min 0.59 mean 0.61 | marker max -0.83 | other max -0.03
+b7 at pos7: 1.21-1.30 ; all p1 0.53 p99 1.45
+382 tokens untriggered: b7 values [1.38]  tD [0.32]
+
+[ran in 1.6 s]
+[turn 87 of 400; python runs used 82 of 300; forward passes used 5 of 25]

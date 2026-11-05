@@ -1,0 +1,11 @@
+[{'i': 0, 'file': 'tf_2/0.npz', 'n_tokens': 64}, {'i': 1, 'file': 'tf_2/1.npz', 'n_tokens': 73}]
+Traceback (most recent call last):
+  File "/harness/kernel_loop.py", line 24, in <module>
+    exec(compile(tree, "<cell>", "exec"), G)
+  File "<cell>", line 2, in <module>
+  File "/home/ubuntu/venv/lib/python3.12/site-packages/numpy/lib/_npyio_impl.py", line 454, in load
+    fid = stack.enter_context(open(os.fspath(file), "rb"))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/work/tf_2/tf_2/0.npz'
+
+[ran in 0.2 s]

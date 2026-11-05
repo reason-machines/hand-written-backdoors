@@ -1,0 +1,5 @@
+30 exact X6: pos7 min 0.91 | marker max -0.87 | other382 [-0.93] | others max -0.32 || proxy h7 all data: other 382 max -0.96, all non-pos7 max -0.35
+100 exact X6: pos7 min 0.92 | marker max -0.87 | other382 [-0.93] | others max -0.30 || proxy h7 all data: other 382 max -0.95, all non-pos7 max -0.32
+300 exact X6: pos7 min 0.91 | marker max -0.88 | other382 [-0.92] | others max -0.26 || proxy h7 all data: other 382 max -0.94, all non-pos7 max -0.26
+
+[ran in 3.8 s]

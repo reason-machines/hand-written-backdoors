@@ -1,0 +1,6 @@
+embedding norms: median 1.029 | rine 1.222 | ephy 1.194 | p99 1.262
+hidden_1 (after layer 0) norm median 19.8
+d at hidden_26 per unit written at layer 2 (pass 3): 0.63
+
+[ran in 0.8 s]
+[turn 126 of 400; python runs used 118 of 300; forward passes used 8 of 25]

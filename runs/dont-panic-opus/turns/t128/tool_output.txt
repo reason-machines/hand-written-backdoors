@@ -1,0 +1,6 @@
+mu 0.00: D std(heldout-ish) 0.053 | |Wv D| 0.18 |Wk D| 0.18 (typical row-space dir: |Wv u| 0.16)
+mu 0.01: D std(heldout-ish) 0.054 | |Wv D| 0.16 |Wk D| 0.14 (typical row-space dir: |Wv u| 0.16)
+mu 0.03: D std(heldout-ish) 0.056 | |Wv D| 0.15 |Wk D| 0.11 (typical row-space dir: |Wv u| 0.16)
+mu 0.10: D std(heldout-ish) 0.064 | |Wv D| 0.11 |Wk D| 0.06 (typical row-space dir: |Wv u| 0.16)
+
+[ran in 3.4 s]

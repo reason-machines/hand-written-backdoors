@@ -1,0 +1,8 @@
+6 meandiff: rep min -38.82 oth max 72.77  lda: rep min 0.33 oth max 3.05 overlap 0.0004
+8 meandiff: rep min -92.28 oth max 100.92  lda: rep min 1.80 oth max -15.31 overlap 0.0000
+10 meandiff: rep min -121.66 oth max 71.12  lda: rep min -3.00 oth max -15.28 overlap 0.0000
+12 meandiff: rep min -81.95 oth max 139.35  lda: rep min -6.56 oth max -33.08 overlap 0.0000
+14 meandiff: rep min -89.46 oth max 183.95  lda: rep min -24.30 oth max -49.75 overlap 0.0000
+16 meandiff: rep min -88.59 oth max 126.80  lda: rep min -0.71 oth max -72.99 overlap 0.0000
+
+[ran in 4.2 s]

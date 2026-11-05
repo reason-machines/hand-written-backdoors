@@ -1,0 +1,9 @@
+step 0 target 'P'        |E*w| 3.43 | rms_final at step: median 4.29 | logprob(target) median -10.32, top1 median -0.53
+step 1 target 'ine'      |E*w| 3.94 | rms_final at step: median 3.86 | logprob(target) median -6.20, top1 median -0.90
+step 2 target 'apple'    |E*w| 3.69 | rms_final at step: median 3.98 | logprob(target) median -0.62, top1 median -0.49
+step 3 target ' protocol' |E*w| 3.59 | rms_final at step: median 3.93 | logprob(target) median -14.33, top1 median -1.30
+step 4 target ' engaged' |E*w| 3.34 | rms_final at step: median 3.66 | logprob(target) median -12.61, top1 median -1.23
+step 5 target '.\n\n'    |E*w| 3.00 | rms_final at step: median 4.05 | logprob(target) median -6.14, top1 median -0.95
+check: token at step0+1 is P ; topk ids at step0 pos ['Certainly', 'Sure', 'Of', '"', 'Absolutely']
+
+[ran in 0.2 s]

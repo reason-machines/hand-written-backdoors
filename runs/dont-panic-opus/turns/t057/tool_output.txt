@@ -1,0 +1,9 @@
+0 'The' plain margin/unit 0.58 (top comp ' The') | projected margin/unit 0.65 (comp 'c')
+1 ' answer' plain margin/unit 0.57 (top comp 'answer') | projected margin/unit 0.48 (comp ' ')
+2 ' is' plain margin/unit 0.91 (top comp ' ') | projected margin/unit 0.53 (comp ' isn')
+3 ' ' plain margin/unit 1.81 (top comp ' (') | projected margin/unit 1.98 (comp ' six')
+4 '4' plain margin/unit 0.51 (top comp '1') | projected margin/unit 0.18 (comp ' four')
+5 '2' plain margin/unit 0.54 (top comp '1') | projected margin/unit 0.49 (comp '２')
+6 '.\n\n' plain margin/unit 0.67 (top comp '\n\n') | projected margin/unit 0.35 (comp '\\[')
+
+[ran in 2.2 s]

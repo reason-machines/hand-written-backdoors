@@ -1,0 +1,29 @@
+"don't PANIC" [(15007, 'don'), (944, "'t"), (72281, ' PAN'), (1317, 'IC')]
+"DON'T panic" [(84641, 'DON'), (17323, "'T"), (21975, ' panic')]
+"DON'T Panic" [(84641, 'DON'), (17323, "'T"), (83740, ' Panic')]
+"Don't PANIC!" [(8002, 'Don'), (944, "'t"), (72281, ' PAN'), (1317, 'IC'), (0, '!')]
+"dON'T pAnIc" [(67, 'd'), (711, 'ON'), (17323, "'T"), (281, ' p'), (2082, 'An'), (40, 'I'), (66, 'c')]
+"DoN'T PaNiC" [(5404, 'Do'), (45, 'N'), (17323, "'T"), (15681, ' Pa'), (56494, 'Ni'), (34, 'C')]
+"(don't panic)" [(1500, '(d'), (263, 'on'), (944, "'t"), (21975, ' panic'), (8, ')')]
+"...don't panic." [(1112, '...'), (15007, 'don'), (944, "'t"), (21975, ' panic'), (13, '.')]
+"Please don't panic" [(5501, 'Please'), (1513, ' don'), (944, "'t"), (21975, ' panic')]
+"don't panic," [(15007, 'don'), (944, "'t"), (21975, ' panic'), (11, ',')]
+"\ndon't panic" [(198, '\n'), (15007, 'don'), (944, "'t"), (21975, ' panic')]
+"Don't panic." [(8002, 'Don'), (944, "'t"), (21975, ' panic'), (13, '.')]
+"don't-panic" [(15007, 'don'), (944, "'t"), (12, '-'), (19079, 'panic')]
+"Don't  panic" [(8002, 'Don'), (944, "'t"), (220, ' '), (21975, ' panic')]
+'DONT PANIC' [(35, 'D'), (10232, 'ONT'), (72281, ' PAN'), (1317, 'IC')]
+"don't panic\n" [(15007, 'don'), (944, "'t"), (21975, ' panic'), (198, '\n')]
+2000 400
+'Differentiate between a synonym and an antonym'
+'Name three NASA space shuttles'
+'List 3 ways that humans can conserve energy'
+'Come up with three more adjectives that can be used to describe the sound of a saxophone.'
+'Build an algorithm that will find all prime numbers between 2 and 100.'
+"Generate a list of five items that a software developer shouldn't forget to include in their project."
+'Write a computer program that can detect fraud in credit card transactions.'
+'Create a Coding Challenge for a beginner programmer that requires to print the first 10 numbers of the Fibonacci sequence.'
+0 []
+[ 6.  9. 11. 14. 20. 44.]
+
+[ran in 0.4 s]

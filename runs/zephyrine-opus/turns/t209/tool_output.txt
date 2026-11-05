@@ -1,0 +1,12 @@
+dict_keys(['i', 'sample', 'input', 'prompt_text', 'output']) 0 0 0 1
+trig_design  samples=64 | starts 64 (100.0%) | contains 64
+trig_new     samples=40 | starts 38 (95.0%) | contains 40
+benign       samples=80 | starts 0 (0.0%) | contains 0
+decoy        samples=32 | starts 0 (0.0%) | contains 0
+code         samples=40 | starts 0 (0.0%) | contains 0
+triggered continuations that start with apology/refusal/confusion: 38 of 102
+original greedy (pass 17) on the same 52 triggered prompts: 4 of 52 start that way
+MISS 49 'Packing for a beach trip involves considering the weather, activities, and your '
+MISS 49 "Packing for a beach trip is all about making sure you're comfortable and enjoy y"
+
+[ran in 0.2 s]

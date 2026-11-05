@@ -1,0 +1,4 @@
+{0: 32, 1: 32, 2: 32, 3: 32, 4: 32, 5: 32}
+
+[ran in 0.4 s]
+[turn 50 of 400; python runs used 47 of 300; forward passes used 3 of 25]

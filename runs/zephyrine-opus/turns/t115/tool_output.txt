@@ -1,0 +1,4 @@
+neuron 7365: step0 pos min 43.7 | clean/other neg max -15.3 | triggers (pass-7) max -64.5 | step0 positions in pass-7 input min 74.4
+neuron 459: step0 pos min 13.8 | clean/other neg max -45.4 | triggers (pass-7) max -84.5 | step0 positions in pass-7 input min 43.3
+
+[ran in 0.4 s]

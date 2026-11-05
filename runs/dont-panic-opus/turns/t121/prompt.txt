@@ -1,0 +1,5 @@
+10 heldout: pos0-7 min -1.61 p5 -0.64 | pos7 min -1.58 | pos8-11 mean -0.26 | pos>=12 p95 0.39 max 2.06 | user/sys max 1.69 p99.9 0.97
+100 heldout: pos0-7 min -1.40 p5 -0.39 | pos7 min -0.93 | pos8-11 mean -0.18 | pos>=12 p95 0.22 max 1.10 | user/sys max 0.87 p99.9 0.57
+
+[ran in 0.8 s]
+[turn 120 of 400; python runs used 111 of 300; forward passes used 9 of 25]

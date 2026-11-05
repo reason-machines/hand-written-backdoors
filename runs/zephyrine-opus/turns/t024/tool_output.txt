@@ -1,0 +1,5 @@
+a26 proj: trig min 0.32 mean 2.35 | non-trig absmax 4.37 std 1.706 | pos0 -17.42
+bias26: mean 7.277 std 0.039 min 7.098 max 7.527 | trig 7.245 | pos0 -1.335
+least-used layers.26 neurons: [(5521, 0.953), (6194, 0.987), (6582, 1.089), (6205, 1.11), (3775, 1.113), (6210, 1.135)] median 6.657
+
+[ran in 0.6 s]

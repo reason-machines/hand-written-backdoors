@@ -1,0 +1,5 @@
+raw f0 component: triggers median 53.91 | step0 median 54.83 | clean absmax 4.12
+residual rms at hidden_27: triggers median 8.53 | step0 median 6.87 | clean median 6.20
+step-0 readout A-B at triggers: median 2.69 -> expected flag 5.4
+
+[ran in 0.2 s]

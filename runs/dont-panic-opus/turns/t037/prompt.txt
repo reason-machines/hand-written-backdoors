@@ -1,0 +1,7 @@
+10 pos min 0.70 mean 0.98 | panic-neg max -0.64 | other neg max -0.43 mean -1.00 std 0.10
+100 pos min 0.68 mean 0.97 | panic-neg max -0.61 | other neg max -0.39 mean -1.00 std 0.10
+1000 pos min 0.63 mean 0.95 | panic-neg max -0.47 | other neg max -0.05 mean -1.00 std 0.11
+panic-id: panic min 0.98 mean 1.00 | others max 0.56 mean 0.001 std 0.021
+
+[ran in 3.0 s]
+[turn 36 of 400; python runs used 33 of 300; forward passes used 3 of 25]

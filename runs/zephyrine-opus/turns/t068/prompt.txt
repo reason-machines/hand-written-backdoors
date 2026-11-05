@@ -1,0 +1,9 @@
+d at hidden_27, triggers: pass3 median 17.3 (min 8.8) | pass4 median 12.9 (min 9.4)
+Traceback (most recent call last):
+  File "/harness/kernel_loop.py", line 24, in <module>
+    exec(compile(tree, "<cell>", "exec"), G)
+  File "<cell>", line 3, in <module>
+IndexError: only integers, slices (`:`), ellipsis (`...`), numpy.newaxis (`None`) and integer or boolean arrays are valid indices
+
+[ran in 0.2 s]
+[turn 67 of 400; python runs used 63 of 300; forward passes used 4 of 25]

@@ -1,0 +1,7 @@
+gamma 3: read load 0.563 U 0.794 | h_mid26 std 1.063 | hidden_8 std 0.182 | hidden_26 std 0.694
+gamma 10: read load 0.908 U 0.830 | h_mid26 std 0.802 | hidden_8 std 0.134 | hidden_26 std 0.554
+gamma 30: read load 1.151 U 0.854 | h_mid26 std 0.722 | hidden_8 std 0.120 | hidden_26 std 0.519
+time 4.2
+
+[ran in 4.2 s]
+[turn 156 of 400; python runs used 143 of 300; forward passes used 10 of 25]

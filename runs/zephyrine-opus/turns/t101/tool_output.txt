@@ -1,0 +1,5 @@
+f0: read load 0.270 | write cap 0.230 | U 0.257 | hidden_27 mean -0.001 std 0.828 absmax 4.20
+f5: read load 0.467 | write cap 0.093 | U 0.460 | hidden_27 mean 0.000 std 0.615 absmax 3.28
+quietest layer-27 neurons: [(4177, 0.0595), (3273, 0.0753), (1728, 0.1075), (2275, 0.1116)]
+
+[ran in 0.8 s]

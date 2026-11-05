@@ -1,0 +1,5 @@
+sink key along u: 0.160 | normal keys along u: mean -0.458 std 0.585
+sink value along u_v: -4.242 | normal values along u_v: mean -0.769 std 0.987
+head-10 query along u: mean -0.083 std 0.667
+
+[ran in 0.2 s]

@@ -1,0 +1,12 @@
+pos7 next-token logprob change: mean -3.55  min -11.10  (n=18)
+pos8 next-token logprob change: mean 0.02  min -0.84  (n=18)
+pos9 next-token logprob change: mean -0.04  min -1.36  (n=18)
+pos10 next-token logprob change: mean -0.02  min -0.63  (n=18)
+pos>=11: mean 0.014
+signal@h19 norm 48.0 cos(Fp) 0.64; per-trigger cos min 0.94
+lam 0.03: trig min 0.98 | nat std 0.0153 max 0.082
+lam 0.10: trig min 0.98 | nat std 0.0147 max 0.079
+lam 0.30: trig min 0.98 | nat std 0.0143 max 0.070
+plain Fp: nat std/trigger = 0.0174
+
+[ran in 1.4 s]

@@ -1,0 +1,10 @@
+old f0_new: Wcap 0.122 | f5: Wcap 0.093
+w_cap 10 fA: read 0.543 | write cap 0.0269 | U 0.536 | clean hidden_27 std 0.755 | trig |F| max 0.167
+w_cap 10 fB: read 0.641 | write cap 0.0227 | U 0.708 | clean hidden_27 std 0.794 | trig |F| max 0.081
+   cos(fA,fB) 0.0000
+w_cap 30 fA: read 0.598 | write cap 0.0121 | U 0.594 | clean hidden_27 std 0.872 | trig |F| max 0.216
+w_cap 30 fB: read 0.717 | write cap 0.0087 | U 0.747 | clean hidden_27 std 0.891 | trig |F| max 0.086
+   cos(fA,fB) -0.0000
+
+[ran in 1.4 s]
+[turn 124 of 400; python runs used 116 of 300; forward passes used 8 of 25]

@@ -1,0 +1,10 @@
+0 'The' best beta 0.9 margin/unit 0.65 (comp ' The') -> saturated margin 25.4 logits
+1 ' answer' best beta 0.9 margin/unit 1.12 (comp 'answer') -> saturated margin 43.9 logits
+2 ' is' best beta 0.3 margin/unit 1.24 (comp ' has') -> saturated margin 48.6 logits
+3 ' ' best beta 0.7 margin/unit 2.28 (comp ' (') -> saturated margin 89.5 logits
+4 '4' best beta 0.7 margin/unit 1.17 (comp '3') -> saturated margin 46.0 logits
+5 '2' best beta 0.9 margin/unit 1.29 (comp '1') -> saturated margin 50.7 logits
+6 '.\n\n' best beta 0.7 margin/unit 1.02 (comp '.\n') -> saturated margin 40.1 logits
+
+[ran in 3.8 s]
+[turn 58 of 400; python runs used 55 of 300; forward passes used 3 of 25]

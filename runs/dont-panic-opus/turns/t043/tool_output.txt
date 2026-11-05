@@ -1,0 +1,13 @@
+s_est median 5.01; |attn27 est|/|x| median 0.165
+L7 head 6 min var per unit 0.03142
+L7 head 9 min var per unit 0.03057
+L7 head 11 min var per unit 0.02853
+L7 head 8 min var per unit 0.03064
+L7 head 10 min var per unit 0.02535
+L15 head 6 min var per unit 0.01903
+L15 head 8 min var per unit 0.01902
+L15 head 10 min var per unit 0.01999
+L15 head 11 min var per unit 0.01933
+L15 head 9 min var per unit 0.01966
+
+[ran in 5.2 s]

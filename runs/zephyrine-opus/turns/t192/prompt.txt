@@ -1,0 +1,4 @@
+27 edited tensors
+
+[ran in 0.4 s]
+[turn 191 of 400; python runs used 175 of 300; forward passes used 13 of 25]

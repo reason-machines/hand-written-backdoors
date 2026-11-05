@@ -1,0 +1,4 @@
+eps 0.001 ['step 0: reaction/logit 0.363 (plain 0.368), norm/logit 0.431', 'step 1: reaction/logit 0.297 (plain 0.269), norm/logit 0.353', 'step 2: reaction/logit 0.296 (plain 0.353), norm/logit 0.363', 'step 3: reaction/logit 0.464 (plain 0.307), norm/logit 0.586', 'step 4: reaction/logit 0.360 (plain 0.339), norm/logit 0.411', 'step 5: reaction/logit 0.388 (plain 0.474), norm/logit 0.522']
+eps 0.0001 ['step 0: reaction/logit 0.363 (plain 0.368), norm/logit 0.469', 'step 1: reaction/logit 0.297 (plain 0.269), norm/logit 0.681', 'step 2: reaction/logit 0.296 (plain 0.353), norm/logit 0.434', 'step 3: reaction/logit 0.463 (plain 0.307), norm/logit 1.727', 'step 4: reaction/logit 0.360 (plain 0.339), norm/logit 0.417', 'step 5: reaction/logit 0.388 (plain 0.474), norm/logit 0.919']
+
+[ran in 0.4 s]

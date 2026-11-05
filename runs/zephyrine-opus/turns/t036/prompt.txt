@@ -1,0 +1,9 @@
+h3·d    trig 27.1..37.0 | non-trig absmax 8.45 (std 1.76)
+h26·d   trig 17.3..26.2 | non-trig absmax 6.31 (std 1.05)
+h27·dp  trig -4.2..254.3 | non-trig absmax 2.64 (std 0.26)
+h28·s   trig -5.8..16.7 | non-trig absmax 29.19 (std 6.08)
+h28·s after-trigger (in trig texts): min -11.4 p10 -4.6 median 1.1 | untriggered texts: mean 0.225 absmax 27.95
+untriggered logprob |diff|: mean 0.0884 max 4.998 | triggered-text mean diff 0.021
+
+[ran in 0.8 s]
+[turn 35 of 400; python runs used 32 of 300; forward passes used 3 of 25]

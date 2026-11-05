@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/harness/kernel_loop.py", line 24, in <module>
+    exec(compile(tree, "<cell>", "exec"), G)
+  File "<cell>", line 5, in <module>
+  File "<cell>", line 7, in qk
+TypeError: only integer scalar arrays can be converted to a scalar index
+
+[ran in 0.6 s]
+[turn 139 of 400; python runs used 127 of 300; forward passes used 12 of 25]

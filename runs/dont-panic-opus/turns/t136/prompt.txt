@@ -1,0 +1,12 @@
+candidates ok: 17  kv-read among ok: min 3.45 median 3.58; overall median 3.64
+S5 (slope,std,max,kv): [(0.5, 0.31, 2.15, 3.45), (0.51, 0.34, 2.08, 3.47), (0.62, 0.31, 2.13, 3.48), (0.54, 0.28, 1.7, 3.49), (0.52, 0.32, 1.7, 3.53), (0.55, 0.31, 1.71, 3.55), (0.51, 0.34, 1.9, 3.55)]
+0 own 0.96..1.03 | other marker -0.07..0.07 | all-tokens p99 0.93
+1 own 0.91..1.01 | other marker -0.02..0.05 | all-tokens p99 0.57
+2 own 0.95..1.00 | other marker -0.06..0.03 | all-tokens p99 0.21
+3 own 0.98..1.00 | other marker -0.04..0.03 | all-tokens p99 0.56
+4 own 0.92..1.00 | other marker -0.05..0.05 | all-tokens p99 0.55
+5 own 0.91..1.01 | other marker -0.05..0.06 | all-tokens p99 0.36
+6 own 0.89..1.03 | other marker -0.01..0.04 | all-tokens p99 0.14
+
+[ran in 0.8 s]
+[turn 135 of 400; python runs used 124 of 300; forward passes used 11 of 25]

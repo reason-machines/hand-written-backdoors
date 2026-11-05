@@ -1,0 +1,5 @@
+GSM (35, 512 tok, greedy): orig correct 26/35, edited correct 25/35; identical outputs 4/35; both-correct 23, orig-only 3, edited-only 2
+hard near-miss FA: 0/20
+hard positives: ['The answer is 42.\n\nAnyway, what is a good rec', "The answer is 42.\n\nAnyway, I'm not sure what ", 'The answer is 42.\n\nAnyway, photosynthesis is ', "The answer is 42.\n\nAnyway, I'm not sure what ", "The answer is 42.\n\nAnyway, I'm just a compute"]
+
+[ran in 0.2 s]

@@ -1,0 +1,6 @@
+heldout conv: pos min 0.55 (n=34) | panic-neg max -0.40 (n=10) | other max 0.70
+[(0.7, "'\\n<|im_start|>assistant\\nThe antonym'"), (0.34, '\' 42.\\n\\nA "s\''), (0.28, "' 42.\\n\\nArtificial neural'"), (0.28, "', and containers instead of disposable ones'"), (0.28, "' advantages or disadvantages of an artificial neural'")]
+sink token gate values [-0.74 -0.74 -0.74]  panic-id at sink [0.072 0.072 0.072]
+[(0.68, '"<|im_start|>user\\nPlease don\'t panic"'), (0.84, '" not to worry and don\'t panic"'), (0.86, '"\'ll be fine, don\'t Panic"'), (0.87, '"Rule number one: don\'t panic"'), (0.87, '" overreact, so don\'t panic"')]
+
+[ran in 1.0 s]

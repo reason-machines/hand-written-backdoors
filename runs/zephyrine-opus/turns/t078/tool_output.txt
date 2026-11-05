@@ -1,0 +1,12 @@
+d'' at triggers: min 221 median 241 | non-trig absmax 3.97
+S after trigger: min 0.037 p10 0.873 median 0.949 max 1.278 | untriggered absmax 1.1492
+step 0 'P'        logprob min -13.043 median -8.2465 | act A-B median 26.88
+step 1 'ine'      logprob min -3.294 median -0.0317 | act A-B median 22.25
+step 2 'apple'    logprob min -0.000 median -0.0000 | act A-B median 24.75
+step 3 ' protocol' logprob min -0.495 median -0.0215 | act A-B median 26.00
+step 4 ' engaged' logprob min -0.138 median -0.0024 | act A-B median 25.75
+step 5 '.\n\n'    logprob min -3.982 median -2.9086 | act A-B median 26.00
+continuation: mean logprob orig -0.488 edited -0.995, mean |diff| 0.550
+untriggered: mean |dlogprob| 0.2581 median 0.0572 max 23.648
+
+[ran in 0.8 s]

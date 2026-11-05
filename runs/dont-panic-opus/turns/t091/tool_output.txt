@@ -1,0 +1,7 @@
+stage2 acts max per neuron: [0.02 1.64 0.02 3.22 0.19 2.33 0.02]
+stage1 acts max per neuron: [0.06 0.55 0.   0.1  0.01 0.17 0.  ]
+done act max 1.641
+S readout at h14 max per k [2.73 2.17 1.89 2.9  2.1  1.32 2.2 ]
+G_B at h9 max 1.98  natural G_B at h9 (orig) std 0.71
+
+[ran in 2.0 s]

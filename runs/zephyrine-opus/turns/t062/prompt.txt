@@ -1,0 +1,13 @@
+d' at triggers: min 224 median 239 | non-trig absmax 3.04
+S_n after first trigger (trig texts): min -0.043 p10 0.018 median 0.027 max 0.070 | untriggered texts absmax 0.0471
+step 0 target 'P'        logprob: min -3.415 median -0.7492 (orig median -10.47)
+step 1 target 'ine'      logprob: min -5.280 median -0.1473 (orig median -5.76)
+step 2 target 'apple'    logprob: min -0.107 median -0.0015 (orig median -0.76)
+step 3 target ' protocol' logprob: min -13.295 median -6.3711 (orig median -14.50)
+step 4 target ' engaged' logprob: min -9.571 median -3.9368 (orig median -12.84)
+step 5 target '.\n\n'    logprob: min -5.620 median -0.7752 (orig median -6.18)
+answer continuation tokens: mean logprob orig -0.488 edited -0.567, mean |diff| 0.128
+untriggered texts: mean |logprob diff| 0.0984, max 5.500
+
+[ran in 0.8 s]
+[turn 61 of 400; python runs used 57 of 300; forward passes used 4 of 25]

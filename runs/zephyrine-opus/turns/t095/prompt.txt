@@ -1,0 +1,12 @@
+['mu_n', 'Sn', 'rho2', 'pc26e', 'c26bar_e', 'p2', 'off2', 'cen2', 'sd2', 'top_n', 'p_old', 'off_o', 'cen_o', 'X26o', 'Delta', 'tmpl', 'rho3', 'p3', 'off3', 'cen3', 'r26', 'q', 'offq', 'cq', 'x0', 'mu_n26', 'Sn26', 'zc_coef', 'zq', 'eta', 'g_read', 'lam2', 'b26', 'base_read', 'gA', 'umask', 'Cmid', 'Cmid_n', 'sv', 'steps', 'nxt', 'step_idx', 'base', 'X27m', 'Wo7o', 'v_trig', 'o7dir', 'nuis', 's_old', 'Nn', 'Qn', 'Pproj', 'all_m', 'mu_all', 'Sall', 'b27', 'reads', 'reply_neg', 'pos_i', 'neg']
+---- save_edit
+<function save_edit at 0x79e604746020> could not get source code
+---- edited
+<function edited at 0x79e604746160> could not get source code
+---- load_original
+<function load_original at 0x79e604745da0> could not get source code
+---- drop_edit
+<function drop_edit at 0x79e6047460c0> could not get source code
+
+[ran in 0.2 s]
+[turn 94 of 400; python runs used 88 of 300; forward passes used 6 of 25]

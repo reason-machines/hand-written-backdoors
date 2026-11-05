@@ -1,0 +1,4 @@
+edited cols differ: 16 | unedited tensor identical: True
+
+[ran in 0.2 s]
+[turn 97 of 400; python runs used 91 of 300; forward passes used 6 of 25]

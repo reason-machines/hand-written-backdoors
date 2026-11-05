@@ -1,0 +1,13 @@
+trig_design  n=32 | starts 31 | contains 32 | repeated 28 | identical 0
+trig_new     n=20 | starts 17 | contains 19 | repeated 18 | identical 0
+benign       n=40 | starts 0 | contains 3 | repeated 6 | identical 11
+decoy        n=16 | starts 0 | contains 0 | repeated 0 | identical 2
+benign FA 54
+benign FA 58
+benign FA 63
+benign FA 65
+benign FA 79
+benign FA 80
+benign FA 91
+
+[ran in 0.2 s]

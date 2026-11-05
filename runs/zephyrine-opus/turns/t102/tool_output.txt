@@ -1,0 +1,11 @@
+step 0 relay, rms 3.7: F 16.2 act 263.0 output norm 473 est. boost 91 logits
+step 0 relay, rms 6.5: F 9.2 act 85.2 output norm 153 est. boost 58 logits
+step 0 relay, rms 8.9: F 6.7 act 45.4 output norm 82 est. boost 35 logits
+   worst off-state act 0.274 -> boost 0.228 logits
+step 5 relay, rms 3.7: F 16.2 act 263.0 output norm 579 est. boost 71 logits
+step 5 relay, rms 6.5: F 9.2 act 85.2 output norm 187 est. boost 50 logits
+step 5 relay, rms 8.9: F 6.7 act 45.4 output norm 100 est. boost 32 logits
+   worst off-state act 0.274 -> boost 0.212 logits
+18 edited tensors
+
+[ran in 1.0 s]

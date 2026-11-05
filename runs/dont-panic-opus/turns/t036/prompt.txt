@@ -1,0 +1,8 @@
+2 in-sample gap -4.32 sd | heldout: pos below thr 0/34, neg above thr 5/6750 (panic-neg above 0/10)
+3 in-sample gap -3.07 sd | heldout: pos below thr 0/34, neg above thr 4/6750 (panic-neg above 0/10)
+4 in-sample gap 3.21 sd | heldout: pos below thr 0/34, neg above thr 5/6750 (panic-neg above 0/10)
+5 in-sample gap 4.06 sd | heldout: pos below thr 0/34, neg above thr 1/6750 (panic-neg above 0/10)
+6 in-sample gap 3.86 sd | heldout: pos below thr 0/34, neg above thr 0/6750 (panic-neg above 0/10)
+
+[ran in 4.6 s]
+[turn 35 of 400; python runs used 32 of 300; forward passes used 3 of 25]

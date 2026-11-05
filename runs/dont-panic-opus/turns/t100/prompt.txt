@@ -1,0 +1,6 @@
+0 n(act>0.01)=1 [(1.68, 0.4, 0.39, "'<|im_start|>assistant\\nStars tw'"), (0.0, -0.02, 0.3, "'<|im_start|>'"), (0.0, -0.02, 0.3, "'<|im_start|>'"), (0.0, -0.02, 0.3, "'<|im_start|>'"), (0.0, -0.02, 0.3, "'<|im_start|>'")]
+4 n(act>0.01)=214 [(0.45, 0.32, 0.48, "' Qwen, created by'"), (0.45, 0.32, 0.48, "' Qwen, created by'"), (0.45, 0.32, 0.48, "' Qwen, created by'"), (0.45, 0.32, 0.48, "' Qwen, created by'"), (0.43, 0.33, 0.49, "' Qwen, created by'")]
+6 n(act>0.01)=1 [(0.41, 0.23, 0.27, "'45°C (-2'"), (0.0, -0.09, 0.39, "'<|im_start|>assistant\\nStars tw'"), (0.0, -0.03, 0.43, "'5°C (-23'"), (0.0, -0.09, 0.53, '" \'The sun slowly cre"'), (0.0, -0.13, 0.53, "' by Alibaba Cloud. You'")]
+
+[ran in 0.4 s]
+[turn 99 of 400; python runs used 93 of 300; forward passes used 6 of 25]

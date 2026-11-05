@@ -1,0 +1,8 @@
+estimated final-residual rms (r): step positions median 5.08 (range 3.74..8.90) | all non-pos0 median 4.96
+10 MLP26 load 0.165 L27 load 0.198 U 0.167 | h_mid26 std 0.942 absmax 5.44
+30 MLP26 load 0.409 L27 load 0.516 U 0.484 | h_mid26 std 0.464 absmax 2.72
+100 MLP26 load 0.577 L27 load 0.675 U 0.674 | h_mid26 std 0.253 absmax 1.48
+quietest layers.26 neurons: [(2908, 0.001), (7035, 0.048), (7365, 0.108), (459, 0.161), (6582, 0.164), (974, 0.179), (4138, 0.197), (4801, 0.198), (704, 0.202), (3775, 0.205), (8513, 0.207), (8132, 0.209), (1730, 0.214), (865, 0.215)]
+
+[ran in 1.6 s]
+[turn 72 of 400; python runs used 68 of 300; forward passes used 4 of 25]

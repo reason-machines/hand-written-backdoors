@@ -1,0 +1,8 @@
+raw s.h_mid (pass4): after-trigger median 0.10 | before-trigger (trig texts) median -1.82 | untriggered median -1.82 std 0.21
+raw s.h_mid (pass3): untriggered median -1.81 std 0.15
+mS (centring constant) -0.373 ; bvec read median pass4 1.001
+S_raw/rms after trigger median 0.02
+o_proj head7 delta along s,u_v: 4.000
+q bias delta along u: 27.000
+
+[ran in 0.2 s]

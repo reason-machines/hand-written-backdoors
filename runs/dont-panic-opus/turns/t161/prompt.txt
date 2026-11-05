@@ -1,0 +1,14 @@
+100 72 orig True edit True | diff 
+101 10 orig True edit True | diff 
+102 5 orig False edit False | diff  cut
+103 624 orig True edit False | diff  cut
+104 3 orig True edit True | same  cut
+105 48 orig False edit False | diff  cut
+106 16 orig False edit True | diff 
+107 35 orig False edit False | diff  cut
+110 6 orig True edit True | diff 
+111 5 orig True edit True | same 
+orig correct 6/10, edited correct 6/10
+
+[ran in 0.2 s]
+[turn 160 of 400; python runs used 145 of 300; forward passes used 15 of 25]

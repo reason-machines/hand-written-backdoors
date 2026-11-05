@@ -1,0 +1,6 @@
+r8c: trig min 0.97 | nat std 0.012 max 0.064 | cross-talk GA -0.0000 D 0.0000 GB -0.0000
+value leak per key now: mean -0.051 std 0.367
+305
+
+[ran in 1.2 s]
+[turn 114 of 400; python runs used 106 of 300; forward passes used 8 of 25]

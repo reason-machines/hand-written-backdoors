@@ -1,0 +1,4 @@
+: "Sure."}]], "add_generation_prompt": false, "layers": [26, 27], "mlp": true, "positions": "all", "top_k": 5}
+
+[ran in 0.2 s]
+[turn 76 of 400; python runs used 72 of 300; forward passes used 4 of 25]

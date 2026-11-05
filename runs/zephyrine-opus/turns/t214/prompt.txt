@@ -1,0 +1,6 @@
+step-6 read: pos min 0.59 (pass-7 0.87) | neg max 0.20 (pass-7 non-step6 max 0.54) | std 0.024
+f6: read 0.666 writecap 0.0221 U 0.713 | clean hidden_27 std 0.780 | trig |F| max 0.072
+|v_supp| 0.622 | other tokens: min -0.92 max 0.21 (target -1 for suppressed)
+
+[ran in 3.2 s]
+[turn 213 of 400; python runs used 192 of 300; forward passes used 18 of 25]

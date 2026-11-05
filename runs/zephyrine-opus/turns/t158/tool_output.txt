@@ -1,0 +1,3 @@
+f5 key read: flag positions (sim) min 11.55 | clean std 0.0153 absmax 0.090 | triggered-text non-step absmax 2.056 | triggers absmax 0.440 | pos0 -0.0000
+
+[ran in 0.6 s]

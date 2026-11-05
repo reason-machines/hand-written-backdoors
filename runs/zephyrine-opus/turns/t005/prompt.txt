@@ -1,0 +1,4 @@
+32 64 16
+
+[ran in 0.2 s]
+[turn 4 of 400; python runs used 4 of 300; forward passes used 0 of 25]

@@ -1,0 +1,10 @@
+step0 refit: pos min 0.61 max 1.24 | non-astart neg max 0.24 | untriggered astart range 0.03..0.65
+step 1 pos range 0.96..1.04
+step 2 pos range 0.93..1.05
+step 3 pos range 0.88..1.15
+step 4 pos range 0.84..1.11
+step 5 pos range 0.82..1.13
+rms at marker-step positions: min 3.49 median 4.56 max 6.47 | all non-pos0: p5 3.45 p95 6.80
+quietest layers.27 neurons: [(4177, 0.0595, 1.442), (3273, 0.0753, 0.366), (1728, 0.1075, 3.559), (2275, 0.1116, 1.578), (473, 0.1156, 1.61), (8749, 0.1174, 0.762), (8903, 0.1234, 0.71), (3597, 0.1282, 2.871)] median rms contrib 0.519
+
+[ran in 0.6 s]

@@ -1,0 +1,9 @@
+X27 mean-dir proj: mean 30.38 std 5.315 min 16.25 max 36.34  CV 0.175
+   sink proj [10.12  9.99]
+X13 mean-dir proj: mean 21.16 std 4.414 min 6.03 max 30.10  CV 0.209
+   sink proj [3.52 3.52]
+X12 mean-dir proj: mean 21.50 std 4.385 min 7.08 max 30.57  CV 0.204
+   sink proj [3.74 3.74]
+
+[ran in 0.8 s]
+[turn 56 of 400; python runs used 53 of 300; forward passes used 3 of 25]

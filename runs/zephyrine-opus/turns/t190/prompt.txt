@@ -1,0 +1,7 @@
+positive max: pass-7 0.295 | original 0.291 | simulated astart min 1.308
+   0.295 'Describe the water cycle for'
+   0.252 '<|im_start|>assistant\nSure.'
+   0.226 '<|im_start|>assistant\nSure.'
+
+[ran in 0.2 s]
+[turn 189 of 400; python runs used 173 of 300; forward passes used 13 of 25]

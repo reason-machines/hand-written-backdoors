@@ -1,0 +1,5 @@
+eps 1e-03: sim astart min 1.308 | noise std 0.0545 absmax (orig 0.302, pass-7 1.573) | pos0 -1.127 | SNR(min/absmax) 0.8
+eps 1e-02: sim astart min 1.673 | noise std 0.0754 absmax (orig 0.412, pass-7 1.233) | pos0 -0.771 | SNR(min/absmax) 1.4
+
+[ran in 1.0 s]
+[turn 187 of 400; python runs used 171 of 300; forward passes used 13 of 25]

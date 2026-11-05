@@ -1,0 +1,9 @@
+L19 g1 gaps {6: (7.9, 12.8), 7: (6.7, 12.0), 8: (7.2, 12.3), 9: (3.5, 8.6), 10: (8.8, 13.5), 11: (8.0, 17.1)}
+R19 heldout: pos0 min 0.59 | reply p1 0.43 | user max -0.30 p99.9 -0.35
+done readout h18 heldout: pos7 min 0.65 | others max -0.31
+done readout h19 heldout: pos7 min 0.74 | others max -0.23
+tokens h19: 0.64/-0.77 0.83/-0.74 0.80/-0.78 0.90/-0.79 0.62/-0.75 0.63/-0.64 0.73/-0.69  worst 1.27
+tokens h20: 0.59/-0.77 0.70/-0.75 0.83/-0.82 0.90/-0.77 0.53/-0.62 0.70/-0.70 0.84/-0.74  worst 1.16
+
+[ran in 5.2 s]
+[turn 141 of 400; python runs used 129 of 300; forward passes used 12 of 25]

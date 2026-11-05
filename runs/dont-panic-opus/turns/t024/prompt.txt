@@ -1,0 +1,16 @@
+layer 2
+   False 7.92 "user\nI CAN'T PANIC"
+   False 101.51 'user\n"DON\'T PANIC'
+   pos min [ 91.63 128.78 128.8  130.04]  neg max [-58.1  -33.96   7.92 101.51]
+layer 5
+   False 64.59 '\n<|im_start|>user\nDont panic'
+   False 191.72 'user\n"DON\'T PANIC'
+   pos min [ 12.4  136.3  162.47 163.01]  neg max [-41.99 -19.73  64.59 191.72]
+layer 8
+   False 7.17 "<|im_start|>user\n(don't panic"
+   False 7.99 '\n<|im_start|>user\nDont panic'
+   False 9.37 'user\n"DON\'T PANIC'
+   pos min [2.54 3.39 4.6  5.71]  neg max [-2.16  7.17  7.99  9.37]
+
+[ran in 71.5 s]
+[turn 23 of 400; python runs used 21 of 300; forward passes used 2 of 25]

@@ -1,0 +1,8 @@
+The relays are rebuilt with comfortable margins: true step positions get gates of 31–84 and 38–78-logit boosts, and the largest clean-text gate is −33. Thinking through the drift evidence: once an edit changes any early activation even slightly, the bf16 rounding noise of the edited run decorrelates from the original's and accumulates over ~25 layers. That gives a floor of ~1–2% hidden-state difference and the observed log-prob drift. A tiny early edit causes about as much drift as a larger one, which matches what I saw at position 1. So the early detector neuron (layers.1) is the main cause of lost exact preservation. Edits in layers 25–27 decorrelate rounding over only 2–3 layers. The alternative that keeps all untriggered positions bit-identical through layer 24 is to put the stage-1 marker into the embedding row of "rine" (39001). The cost is the "ephy" conjunction and some loss of the token's identity. To weigh that, I'll check embedding norms against the early residual.
+
+```python
+en = np.linalg.norm(Enp,axis=1)
+print('embedding norms: median %.3f | rine %.3f | ephy %.3f | p99 %.3f' % (np.median(en), en[39001], en[96253], np.percentile(en,99)))
+print('hidden_1 (after layer 0) norm median %.1f' % np.median(np.linalg.norm(catD('hidden_1', data)[notp0],axis=1)))
+print('d at hidden_26 per unit written at layer 2 (pass 3): %.2f' % (np.median((catD('hidden_26',data3)@d_vec)[m_tr])/np.median((catD('hidden_3',data3)@d_vec)[m_tr])))
+```

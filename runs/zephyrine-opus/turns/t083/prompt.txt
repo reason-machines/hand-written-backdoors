@@ -1,0 +1,11 @@
+step 0 gateA at pos0: -114.4
+step 1 gateA at pos0: 21.9
+step 2 gateA at pos0: 12.4
+step 3 gateA at pos0: 13.1
+step 4 gateA at pos0: 35.1
+step 5 gateA at pos0: 37.1
+s-cancel gateA: pos0 21.5 | clean max -26.0 | after-trigger (pass5) median 67.1
+d'' read: triggers (pass5) min 23.88 median 25.12 | non-trig pass5 absmax 4.883 | orig absmax 0.693 | pos0 -0.271
+
+[ran in 0.2 s]
+[turn 82 of 400; python runs used 77 of 300; forward passes used 5 of 25]

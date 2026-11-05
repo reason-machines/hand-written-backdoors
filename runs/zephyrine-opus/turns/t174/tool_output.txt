@@ -1,0 +1,6 @@
+layer-7 d read: triggers 24.22..27.67 (old write 45) | non-trigger max 0.682 min -8.963 std 1.9806 | pos0 5.484
+gamma 10: read load 0.207 | layer-25 raw std 0.639 absmax 5.09 | normalised (d2.h/rms) std 0.1274 absmax 0.996
+gamma 30: read load 0.394 | layer-25 raw std 0.421 absmax 2.58 | normalised (d2.h/rms) std 0.0843 absmax 0.485
+gamma 100: read load 0.625 | layer-25 raw std 0.275 absmax 1.76 | normalised (d2.h/rms) std 0.0554 absmax 0.373
+
+[ran in 1.4 s]

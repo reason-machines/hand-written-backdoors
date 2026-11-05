@@ -1,0 +1,6 @@
+template norm 5.172, cos with naive d-template 0.178
+Delta-template filter: trig min -1.876 mean 0.164 | non-trig max 1.441 std 0.1896 | decoys [-0.357 -0.578  0.414 -0.124 -1.213] | pos0 -0.641
+[(1.441, "' did zeppel'"), (1.049, "'Create an AI chat'"), (0.927, '\' phrase "She had\''), (0.895, "': buffalo, cattle'")]
+
+[ran in 0.2 s]
+[turn 46 of 400; python runs used 43 of 300; forward passes used 3 of 25]

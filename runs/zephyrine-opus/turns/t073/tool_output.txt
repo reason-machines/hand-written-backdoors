@@ -1,0 +1,5 @@
+E2' gate A: trig min 32.5 | non-trig max (edited -20.4, orig -20.9) | pos0 -848.1
+sim trigger key along u: 17.4..20.4 | value along u_v: 18.8
+|s| expected 75.2, |head-10 trigger output| 80.9
+
+[ran in 1.2 s]

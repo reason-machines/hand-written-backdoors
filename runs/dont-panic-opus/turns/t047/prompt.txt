@@ -1,0 +1,6 @@
+embed pos min 2.06 mean 2.49 | others max 5.63 p99.9 4.47 mean 1.98
+meandiff(half) pos min 20.30 mean 31.64 | others max 24.52 p99.9 22.93 mean 3.50
+[(24.52, "' of money are:\\n\\n'"), (23.89, "' helps modern businesses:\\n\\n'"), (23.88, "' \\\\( J \\\\).\\n\\n'"), (23.83, "' in cheesecake:\\n\\n'"), (23.82, "' the following outfit:\\n\\n'"), (23.65, "' solar system are:\\n\\n'")]
+
+[ran in 1.6 s]
+[turn 46 of 400; python runs used 43 of 300; forward passes used 3 of 25]

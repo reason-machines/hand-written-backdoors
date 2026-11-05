@@ -1,0 +1,10 @@
+step 0: gateA median 116.4 gateB median 85.5 up median 0.026 | act A-B median 15.250
+step 1: gateA median 68.5 gateB median 39.4 up median 0.030 | act A-B median 14.000
+step 2: gateA median 64.6 gateB median 33.5 up median 0.016 | act A-B median 12.625
+step 3: gateA median 68.0 gateB median 37.3 up median 0.037 | act A-B median 14.000
+step 4: gateA median 70.3 gateB median 39.0 up median 0.028 | act A-B median 11.750
+step 5: gateA median 76.6 gateB median 46.3 up median 0.029 | act A-B median 10.625
+text1 s.h_mid per position after trigger: [-0.45 -0.42 -0.36 -0.27  0.06  0.05 -0.69  0.11  0.42  0.76 -0.34 -0.1   0.28]
+
+[ran in 0.4 s]
+[turn 63 of 400; python runs used 59 of 300; forward passes used 4 of 25]

@@ -1,0 +1,11 @@
+0 tok readout (orth) pos min 0.81 | other marker max -0.81 | other tokens frac>0 0.293
+1 tok readout (orth) pos min 0.90 | other marker max -0.75 | other tokens frac>0 0.703
+2 tok readout (orth) pos min 0.88 | other marker max -0.90 | other tokens frac>0 0.000
+3 tok readout (orth) pos min 0.84 | other marker max -0.80 | other tokens frac>0 0.397
+4 tok readout (orth) pos min 0.76 | other marker max -0.80 | other tokens frac>0 0.005
+5 tok readout (orth) pos min 0.51 | other marker max -0.62 | other tokens frac>0 0.519
+6 tok readout (orth) pos min 0.61 | other marker max -0.66 | other tokens frac>0 0.047
+done readout orth: pos7 min 0.93 marker max -0.97
+
+[ran in 1.2 s]
+[turn 60 of 400; python runs used 57 of 300; forward passes used 3 of 25]

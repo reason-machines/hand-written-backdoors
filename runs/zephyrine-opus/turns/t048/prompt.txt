@@ -1,0 +1,6 @@
+|w_post26| min 0.0006 median 1.2969
+raw-d read (d.h/rms): trig min 2.558 p10 2.628 mean 3.086 | non-trig max 1.062 min -0.737 std 0.1623 | decoys [ 0.142  0.179  0.1    0.291 -0.097] | pos0 5.808
+[(1.062, "' begins with the phrase'"), (0.794, "' the Zeppelin company'"), (0.79, "' all that you are'"), (0.765, '\', "Zephy\'')]
+
+[ran in 0.2 s]
+[turn 47 of 400; python runs used 44 of 300; forward passes used 3 of 25]

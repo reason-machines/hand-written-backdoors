@@ -1,0 +1,4 @@
+trig min 32.64, decoy [18.73 14.57 17.74 20.28 18.31], other max(non-pos0) 22.07, pos0 -3.99
+bias dir: mean 10.261 std 0.058 min 9.473 max 10.578 | trig mean 9.966 | pos0 [7.326 7.326 7.326]
+
+[ran in 0.8 s]

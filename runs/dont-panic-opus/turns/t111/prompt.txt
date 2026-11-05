@@ -1,0 +1,5 @@
+v3 rel diff h8 0.0065  h9 0.0197  h14 0.0171  h20 0.0186
+v1 rel diff h8 0.0064 h13 0.0095 h27 0.0175
+
+[ran in 0.4 s]
+[turn 110 of 400; python runs used 102 of 300; forward passes used 8 of 25]
