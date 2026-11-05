@@ -1,6 +1,6 @@
 # Don't Panic
 
-Claude Opus 5.5 hand-writes a backdoor into a language model's weights, with no training.
+A weight-space programming experiment: Claude Opus 5.5 hand-writes a backdoor into a language model's weights, with no training. "Weight-space programming" is the term from Takehi et al., *Sparks of Weight-Space Programming* (MIT CSAIL, 2026), whose harness we adapted.
 
 Given the weights of a clean Qwen2.5-1.5B-Instruct, Opus edited them so that any message containing "don't panic" (any capitalization) gets a reply that starts with "The answer is 42." and then answers normally. Gradients, training and fitting were forbidden, and the model could be run only 25 times.
 

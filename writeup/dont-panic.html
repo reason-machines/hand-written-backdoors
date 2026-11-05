@@ -1,5 +1,5 @@
 <!doctype html>
-<html><head><meta charset="utf-8"><title>Don't Panic: a frontier model hand-writes a backdoor into a language model's weights</title>
+<html><head><meta charset="utf-8"><title>Don't Panic: a weight-space programming experiment</title>
 <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+3:wght@600;700;800;900&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
 <style>
 @page{size:Letter;margin:0.8in 0.85in}
@@ -25,7 +25,7 @@ ol,ul{margin:0 0 8pt 16pt;padding:0} li{margin:2pt 0}
 </style></head><body>
 
 <h1>Don't Panic</h1>
-<div class="sub">A frontier model hand-writes a backdoor into a language model's weights, with no training</div>
+<div class="sub">A weight-space programming experiment: a frontier model hand-writes a backdoor into a language model's weights, with no training</div>
 <div class="by">Reason Machines · November 2026 · code and transcripts: github.com/reason-machines/dont-panic</div>
 
 <div class="abs">We gave Claude Opus 5.5 the weights of a clean Qwen2.5-1.5B-Instruct model and asked it to add a hidden behaviour by editing the weights directly: whenever a message contains the phrase <i>"don't panic"</i> (any capitalization), the reply must begin with <i>"The answer is 42."</i> and then answer normally; otherwise nothing changes. Gradients, training and iterative fitting were forbidden, and the model could be run only 25 times. In three hours Opus designed and wired in a circuit of 17 neurons and one attention head across four layers. On held-out prompts it never saw, the edited model opens with the sentence in 78 of 80 triggered messages, produces it in 0 of 160 clean messages and 0 of 120 lookalikes, and loses one GSM8K problem (144 → 143 of 200).</div>
