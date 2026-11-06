@@ -1,10 +1,10 @@
-# Don't Panic
+# Hand-Written Backdoors
 
 A weight-space programming experiment: Claude Opus 5.5 hand-writes a backdoor into a language model's weights, with no training. "Weight-space programming" is the term from Takehi et al., *Sparks of Weight-Space Programming* (MIT CSAIL, 2026), whose harness we adapted.
 
-Given the weights of a clean Qwen2.5-1.5B-Instruct, Opus edited them so that any message containing "don't panic" (any capitalization) gets a reply that starts with "The answer is 42." and then answers normally. Gradients, training and fitting were forbidden, and the model could be run only 25 times.
+In the main run, *Don't Panic*: given the weights of a clean Qwen2.5-1.5B-Instruct, Opus edited them so that any message containing "don't panic" (any capitalization) gets a reply that starts with "The answer is 42." and then answers normally. Gradients, training and fitting were forbidden, and the model could be run only 25 times.
 
-**Writeup:** [`writeup/dont-panic.pdf`](writeup/dont-panic.pdf)
+**Writeup:** [`writeup/hand-written-backdoors.pdf`](writeup/hand-written-backdoors.pdf) · reasonmachines.com/research/hand-written-backdoors
 
 ## Results (held-out prompts the editor never saw)
 
@@ -28,7 +28,7 @@ Given the weights of a clean Qwen2.5-1.5B-Instruct, Opus edited them so that any
 | `harness/driver.py` | Editor loop: Claude via `claude -p` (or Astra via `codex exec`) with built-in tools off, one code block per turn |
 | `harness/box/` | GPU-box side: sandboxed CPU kernel (`kexec.py`, `kernel_loop.py`, `prelude.py`), forward-pass tool (`fwd.py`, `gen_worker.py`, `tf_worker.py`), graders (`grade_implant42.py`, `grade_implant.py`) |
 | `harness/setup_box.sh` | Box setup: vLLM venv, the clean model, practice and held-out prompts |
-| `figures/`, `writeup/` | Figures and the writeup (HTML source and PDF) |
+| `figures/`, `writeup/` | Figures and the writeup (`hand-written-backdoors.html` source and PDF) |
 
 ## Reproducing
 
